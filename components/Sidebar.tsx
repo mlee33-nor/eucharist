@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react';
 import { motion } from 'framer-motion';
-import { Search, MapPin } from 'lucide-react';
+import { Search, MapPin, X } from 'lucide-react';
 import GlassCard from '@/components/ui/GlassCard';
 import { Miracle } from '@/types/miracle';
 import { cn } from '@/lib/utils';
@@ -100,8 +100,18 @@ export default function Sidebar({
       >
         <div className="glass h-full flex flex-col">
         {/* Header */}
-        <div className="p-6 border-b border-white/10">
-          <h1 className="text-2xl font-bold mb-2 text-holy-gold">
+        <div className="p-6 border-b border-white/10 relative">
+          {/* Close button for mobile */}
+          {onToggle && (
+            <button
+              onClick={onToggle}
+              className="lg:hidden absolute top-4 right-4 p-2 min-w-touch min-h-touch rounded-lg hover:bg-white/10 transition-colors"
+              aria-label="Close menu"
+            >
+              <X className="w-6 h-6 text-holy-gold" />
+            </button>
+          )}
+          <h1 className="text-2xl font-bold mb-2 text-holy-gold pr-12 lg:pr-0">
             Eucharistic Miracles
           </h1>
           <p className="text-sm text-white/70">
