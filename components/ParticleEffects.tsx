@@ -10,7 +10,7 @@ interface ParticleEffectsProps {
 
 export default function ParticleEffects({ globeRef, selectedMiracle }: ParticleEffectsProps) {
   const particleSystemRef = useRef<any>(null);
-  const animationFrameRef = useRef<number>();
+  const animationFrameRef = useRef<number | undefined>(undefined);
 
   useEffect(() => {
     if (!globeRef.current || !selectedMiracle) {

@@ -27,7 +27,7 @@ export default function Timeline({
   const [isPlaying, setIsPlaying] = useState(false);
   const [playSpeed, setPlaySpeed] = useState(1); // 1x, 2x, 5x
   const [isExpanded, setIsExpanded] = useState(true);
-  const intervalRef = useRef<NodeJS.Timeout>();
+  const intervalRef = useRef<NodeJS.Timeout | undefined>(undefined);
 
   // Auto-play functionality
   useEffect(() => {
