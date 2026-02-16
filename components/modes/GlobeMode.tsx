@@ -52,6 +52,7 @@ export default function GlobeMode({ miracles }: GlobeModeProps) {
   const handleMiracleSelect = (miracle: Miracle) => {
     setSelectedMiracle(miracle);
     setIsModalOpen(true);
+    setIsSidebarOpen(false); // Close sidebar on mobile when miracle is selected
   };
 
   const handleYearChange = (year: number | ((prev: number) => number)) => {
@@ -64,14 +65,16 @@ export default function GlobeMode({ miracles }: GlobeModeProps) {
 
   return (
     <div className="relative w-full h-full">
-      {/* Mobile Menu Toggle */}
-      <button
-        onClick={() => setIsSidebarOpen(!isSidebarOpen)}
-        className="lg:hidden fixed top-20 left-4 z-30 p-3 min-w-touch min-h-touch bg-black/50 backdrop-blur-md rounded-lg border border-white/10 hover:bg-white/10 transition-colors"
-        aria-label="Toggle menu"
-      >
-        <Menu className="w-6 h-6 text-holy-gold" />
-      </button>
+      {/* Mobile Menu Toggle - only show when sidebar is closed */}
+      {!isSidebarOpen && (
+        <button
+          onClick={() => setIsSidebarOpen(true)}
+          className="lg:hidden fixed top-20 left-4 z-30 p-3 min-w-touch min-h-touch bg-black/50 backdrop-blur-md rounded-lg border border-white/10 hover:bg-white/10 transition-colors"
+          aria-label="Open menu"
+        >
+          <Menu className="w-6 h-6 text-holy-gold" />
+        </button>
+      )}
 
       {/* Sidebar */}
       <Sidebar

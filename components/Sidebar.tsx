@@ -77,10 +77,10 @@ export default function Sidebar({
 
   return (
     <>
-      {/* Backdrop overlay for mobile */}
+      {/* Backdrop overlay for mobile - below nav bar */}
       {isOpen && onToggle && (
         <div
-          className="lg:hidden fixed inset-0 bg-black/60 backdrop-blur-sm z-40"
+          className="lg:hidden fixed inset-0 top-16 bg-black/60 backdrop-blur-sm z-40"
           onClick={onToggle}
         />
       )}
@@ -94,8 +94,8 @@ export default function Sidebar({
         }}
         transition={{ duration: 0.3, ease: 'easeOut' }}
         className={cn(
-          "fixed left-0 top-0 h-screen z-50 flex flex-col",
-          "w-full sm:w-96 lg:w-80 lg:relative lg:translate-x-0 lg:opacity-100"
+          "fixed left-0 top-16 h-[calc(100vh-4rem)] z-50 flex flex-col",
+          "w-full sm:w-96 lg:w-80 lg:top-0 lg:h-screen lg:relative lg:translate-x-0 lg:opacity-100"
         )}
       >
         <div className="glass h-full flex flex-col">
