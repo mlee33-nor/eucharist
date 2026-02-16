@@ -16,10 +16,10 @@ export default function GlobeComponent({
   onMiracleClick,
   selectedMiracle
 }: GlobeComponentProps) {
-  const globeEl = useRef<any>();
+  const globeEl = useRef<any>(null);
   const [autoRotate, setAutoRotate] = useState(true);
   const [hoveredMiracle, setHoveredMiracle] = useState<Miracle | null>(null);
-  const autoRotateTimeoutRef = useRef<NodeJS.Timeout>();
+  const autoRotateTimeoutRef = useRef<NodeJS.Timeout | undefined>(undefined);
 
   // Auto-rotate controls
   useEffect(() => {
