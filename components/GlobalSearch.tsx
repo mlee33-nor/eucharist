@@ -60,7 +60,7 @@ export default function GlobalSearch({ miracles }: GlobalSearchProps) {
       {/* Search Button */}
       <button
         onClick={() => setIsOpen(true)}
-        className="flex items-center gap-2 px-4 py-2 bg-black/40 border border-amber-500/30 rounded-lg text-amber-100/80 hover:border-amber-500/60 hover:text-amber-100 transition-all"
+        className="flex items-center gap-2 px-4 py-3 sm:py-2 min-h-touch bg-black/40 border border-amber-500/30 rounded-lg text-amber-100/80 hover:border-amber-500/60 hover:text-amber-100 transition-all"
       >
         <Search className="w-4 h-4" />
         <span className="hidden md:inline">Search miracles...</span>
@@ -76,7 +76,7 @@ export default function GlobalSearch({ miracles }: GlobalSearchProps) {
           onClick={() => setIsOpen(false)}
         >
           <div
-            className="w-full max-w-2xl bg-black/90 border border-amber-500/30 rounded-2xl shadow-2xl shadow-amber-500/20 overflow-hidden"
+            className="w-full max-w-sm sm:max-w-2xl mx-4 sm:mx-auto bg-black/90 border border-amber-500/30 rounded-2xl shadow-2xl shadow-amber-500/20 overflow-hidden"
             onClick={(e) => e.stopPropagation()}
           >
             {/* Search Input */}
@@ -106,7 +106,7 @@ export default function GlobalSearch({ miracles }: GlobalSearchProps) {
                     <button
                       key={miracle.id}
                       onClick={() => handleSelectMiracle(miracle)}
-                      className="w-full text-left p-4 rounded-xl hover:bg-amber-500/10 transition-colors group"
+                      className="w-full text-left p-4 sm:p-3 min-h-touch rounded-xl hover:bg-amber-500/10 transition-colors group"
                     >
                       <h4 className="text-lg font-semibold text-amber-300 group-hover:text-amber-400 mb-1">
                         {miracle.name}

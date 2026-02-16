@@ -122,7 +122,7 @@ export default function EvidenceMode({ miracles }: EvidenceModeProps) {
                 ].map(({ key, label }) => (
                   <label
                     key={key}
-                    className="flex items-center gap-2 text-amber-100/80 hover:text-amber-100 cursor-pointer"
+                    className="flex items-center gap-3 py-2 min-h-touch text-amber-100/80 hover:text-amber-100 cursor-pointer"
                   >
                     <input
                       type="checkbox"
@@ -178,7 +178,7 @@ export default function EvidenceMode({ miracles }: EvidenceModeProps) {
                   {countries.map(country => (
                     <label
                       key={country}
-                      className="flex items-center gap-2 text-amber-100/80 hover:text-amber-100 cursor-pointer"
+                      className="flex items-center gap-3 py-2 min-h-touch text-amber-100/80 hover:text-amber-100 cursor-pointer"
                     >
                       <input
                         type="checkbox"
@@ -208,7 +208,7 @@ export default function EvidenceMode({ miracles }: EvidenceModeProps) {
               <div className="flex items-center gap-4">
                 <button
                   onClick={() => setShowFilters(!showFilters)}
-                  className="lg:hidden px-4 py-2 bg-amber-500/20 border border-amber-500/30 rounded-lg text-amber-100 hover:bg-amber-500/30 transition-colors flex items-center gap-2"
+                  className="lg:hidden px-4 py-3 min-h-touch text-base sm:text-sm bg-amber-500/20 border border-amber-500/30 rounded-lg text-amber-100 hover:bg-amber-500/30 transition-colors flex items-center gap-2"
                 >
                   <Filter className="w-4 h-4" />
                   Filters {activeFilterCount > 0 && `(${activeFilterCount})`}
@@ -240,10 +240,6 @@ export default function EvidenceMode({ miracles }: EvidenceModeProps) {
                   <EvidenceCard
                     key={miracle.id}
                     miracle={miracle}
-                    onClick={() => {
-                      // TODO: Open miracle detail modal/page
-                      console.log('Open miracle:', miracle.name);
-                    }}
                   />
                 ))}
               </div>

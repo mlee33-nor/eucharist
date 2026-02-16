@@ -72,20 +72,20 @@ export default function GalleryTab({ miracle }: GalleryTabProps) {
                   e.stopPropagation();
                   prevImage();
                 }}
-                className="absolute left-2 top-1/2 -translate-y-1/2 p-2 rounded-full bg-black/50 hover:bg-black/70 transition-colors"
+                className="absolute left-2 top-1/2 -translate-y-1/2 p-3 sm:p-2 min-w-touch min-h-touch rounded-full bg-black/50 hover:bg-black/70 transition-colors"
                 aria-label="Previous image"
               >
-                <ChevronLeft className="w-6 h-6" />
+                <ChevronLeft className="w-8 h-8 sm:w-6 sm:h-6" />
               </button>
               <button
                 onClick={(e) => {
                   e.stopPropagation();
                   nextImage();
                 }}
-                className="absolute right-2 top-1/2 -translate-y-1/2 p-2 rounded-full bg-black/50 hover:bg-black/70 transition-colors"
+                className="absolute right-2 top-1/2 -translate-y-1/2 p-3 sm:p-2 min-w-touch min-h-touch rounded-full bg-black/50 hover:bg-black/70 transition-colors"
                 aria-label="Next image"
               >
-                <ChevronRight className="w-6 h-6" />
+                <ChevronRight className="w-8 h-8 sm:w-6 sm:h-6" />
               </button>
 
               {/* Counter */}
@@ -98,7 +98,7 @@ export default function GalleryTab({ miracle }: GalleryTabProps) {
 
         {/* Thumbnails */}
         {miracle.images!.length > 1 && (
-          <div className="grid grid-cols-4 gap-3">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 sm:gap-3">
             {miracle.images!.map((img, idx) => (
               <button
                 key={idx}
@@ -141,7 +141,7 @@ export default function GalleryTab({ miracle }: GalleryTabProps) {
             >
               <button
                 onClick={() => setLightboxOpen(false)}
-                className="absolute top-4 right-4 p-2 rounded-full bg-white/10 hover:bg-white/20 transition-colors"
+                className="absolute top-4 right-4 p-4 sm:p-2 min-w-touch min-h-touch rounded-full bg-white/10 hover:bg-white/20 transition-colors"
               >
                 <X className="w-6 h-6" />
               </button>

@@ -23,19 +23,19 @@ export default function TestimoniesTab({ miracle }: TestimoniesTabProps) {
   }
 
   return (
-    <div className="space-y-6">
-      <h3 className="text-2xl font-semibold text-holy-gold">Witness Testimonies</h3>
+    <div className="space-y-4 sm:space-y-6">
+      <h3 className="text-xl sm:text-2xl font-semibold text-holy-gold">Witness Testimonies</h3>
 
-      <div className="space-y-6">
+      <div className="space-y-4 sm:space-y-6">
         {miracle.witnessTestimonies!.map((testimony, idx) => (
           <div
             key={idx}
-            className="p-6 bg-white/5 rounded-lg border border-white/10 relative"
+            className="p-4 sm:p-6 bg-white/5 rounded-lg border border-white/10 relative"
           >
-            <Quote className="absolute top-4 right-4 w-8 h-8 text-holy-gold/20" />
+            <Quote className="absolute top-4 right-4 w-6 h-6 sm:w-8 sm:h-8 text-holy-gold/20" />
 
             <div className="mb-4">
-              <div className="text-lg font-semibold text-holy-gold">{testimony.name}</div>
+              <div className="text-base sm:text-lg font-semibold text-holy-gold">{testimony.name}</div>
               <div className="text-sm text-white/60">{testimony.role}</div>
             </div>
 

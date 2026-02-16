@@ -80,7 +80,7 @@ export default function ComparisonMode({ miracles }: ComparisonModeProps) {
           </div>
 
           {/* Selected Miracles */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 mb-4">
             {Array.from({ length: 4 }).map((_, index) => {
               const miracle = selectedMiracles[index];
 
@@ -98,9 +98,9 @@ export default function ComparisonMode({ miracles }: ComparisonModeProps) {
                     <div className="relative h-full flex flex-col">
                       <button
                         onClick={() => removeMiracle(miracle.id)}
-                        className="absolute -top-2 -right-2 w-6 h-6 bg-red-500/20 border border-red-500/40 rounded-full flex items-center justify-center hover:bg-red-500/30 transition-colors"
+                        className="absolute -top-2 -right-2 w-8 h-8 sm:w-6 sm:h-6 min-w-touch min-h-touch bg-red-500/20 border border-red-500/40 rounded-full flex items-center justify-center hover:bg-red-500/30 transition-colors"
                       >
-                        <X className="w-4 h-4 text-red-300" />
+                        <X className="w-5 h-5 sm:w-4 sm:h-4 text-red-300" />
                       </button>
                       <div className="flex-1">
                         <h4 className="text-amber-300 font-semibold text-sm mb-1">
@@ -141,7 +141,7 @@ export default function ComparisonMode({ miracles }: ComparisonModeProps) {
                     e.target.value = '';
                   }
                 }}
-                className="flex-1 px-4 py-2 bg-black/40 border border-amber-500/30 rounded-lg text-amber-100 focus:border-amber-500 focus:outline-none"
+                className="flex-1 px-4 py-3 sm:py-2 min-h-touch text-base sm:text-sm bg-black/40 border border-amber-500/30 rounded-lg text-amber-100 focus:border-amber-500 focus:outline-none"
                 defaultValue=""
               >
                 <option value="" disabled>

@@ -9,11 +9,11 @@ interface OverviewTabProps {
 
 export default function OverviewTab({ miracle }: OverviewTabProps) {
   return (
-    <div className="space-y-6">
+    <div className="space-y-4 sm:space-y-6">
       {/* Location */}
       <div className="flex items-center gap-2 text-white/80">
         <MapPin className="w-5 h-5 text-holy-blue" />
-        <span className="text-lg">
+        <span className="text-base sm:text-lg">
           {miracle.city}, {miracle.country}
         </span>
       </div>
@@ -24,8 +24,8 @@ export default function OverviewTab({ miracle }: OverviewTabProps) {
         <span>{miracle.date}</span>
       </div>
 
-      {/* Main Image */}
-      {miracle.images && miracle.images.length > 0 && (
+      {/* Main Image - Hidden until images are uploaded */}
+      {false && miracle.images && miracle.images.length > 0 && (
         <div className="rounded-lg overflow-hidden bg-black/30 aspect-video">
           <img
             src={miracle.images[0]}
@@ -36,8 +36,8 @@ export default function OverviewTab({ miracle }: OverviewTabProps) {
       )}
 
       {/* Description */}
-      <div className="p-4 bg-white/5 rounded-lg border border-holy-gold/30">
-        <h3 className="text-lg font-semibold mb-3 text-holy-gold">About This Miracle</h3>
+      <div className="p-4 sm:p-6 bg-white/5 rounded-lg border border-holy-gold/30">
+        <h3 className="text-base sm:text-lg font-semibold mb-3 text-holy-gold">About This Miracle</h3>
         <p className="text-white/80 leading-relaxed mb-4">
           {miracle.fullDescription || (
             <>
@@ -69,7 +69,7 @@ export default function OverviewTab({ miracle }: OverviewTabProps) {
         href={miracle.url}
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-flex items-center gap-2 px-6 py-3 bg-holy-gold text-black font-semibold rounded-lg hover:bg-holy-gold/90 transition-colors"
+        className="inline-flex items-center gap-2 px-6 py-3 min-h-touch bg-holy-gold text-black font-semibold rounded-lg hover:bg-holy-gold/90 transition-colors"
       >
         <span>View Original Source</span>
         <ExternalLink className="w-4 h-4" />

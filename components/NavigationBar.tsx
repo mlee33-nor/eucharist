@@ -47,7 +47,7 @@ export default function NavigationBar({ activeMode, onModeChange, miracles }: Na
                   key={mode}
                   onClick={() => onModeChange(mode)}
                   className={cn(
-                    'flex items-center gap-2 px-4 py-2 rounded-lg transition-all duration-200',
+                    'flex items-center gap-2 px-4 py-3 min-h-touch rounded-lg transition-all duration-200',
                     'hover:bg-amber-500/10',
                     activeMode === mode
                       ? 'text-amber-400 bg-amber-500/20 border-b-2 border-amber-500'
@@ -65,7 +65,7 @@ export default function NavigationBar({ activeMode, onModeChange, miracles }: Na
             <div className="md:hidden">
               <button
                 onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-                className="text-amber-400 hover:text-amber-300 p-2"
+                className="text-amber-400 hover:text-amber-300 p-3 min-w-touch min-h-touch"
               >
                 {mobileMenuOpen ? (
                   <X className="w-6 h-6" />
@@ -89,7 +89,7 @@ export default function NavigationBar({ activeMode, onModeChange, miracles }: Na
                     setMobileMenuOpen(false);
                   }}
                   className={cn(
-                    'flex items-center gap-3 w-full px-4 py-3 rounded-lg transition-all',
+                    'flex items-center gap-3 w-full px-4 py-3 min-h-touch rounded-lg transition-all',
                     activeMode === mode
                       ? 'text-amber-400 bg-amber-500/20 border-l-4 border-amber-500'
                       : 'text-amber-100/70 hover:bg-amber-500/10 hover:text-amber-100'

@@ -96,7 +96,7 @@ export default function Timeline({
       >
         <button
           onClick={onToggle}
-          className="flex items-center gap-2 px-6 py-3 glass rounded-full hover:bg-white/10 transition-all shadow-lg"
+          className="flex items-center gap-2 px-6 py-3 min-h-touch glass rounded-full hover:bg-white/10 transition-all shadow-lg"
         >
           <Clock className="w-5 h-5 text-holy-gold" />
           <span className="font-semibold">Enable Timeline</span>
@@ -112,7 +112,7 @@ export default function Timeline({
         animate={{ y: 0, opacity: 1 }}
         exit={{ y: 100, opacity: 0 }}
         className={cn(
-          'fixed bottom-0 left-0 right-0 z-20 glass border-t border-white/10',
+          'fixed bottom-0 safe-bottom left-0 right-0 z-20 glass border-t border-white/10',
           isExpanded ? 'h-40' : 'h-16'
         )}
       >
@@ -139,7 +139,7 @@ export default function Timeline({
               {/* Play/Pause Button */}
               <button
                 onClick={togglePlay}
-                className="p-3 bg-holy-gold text-black rounded-full hover:bg-holy-gold/90 transition-colors shadow-lg"
+                className="p-4 sm:p-3 min-w-touch min-h-touch bg-holy-gold text-black rounded-full hover:bg-holy-gold/90 transition-colors shadow-lg"
                 aria-label={isPlaying ? 'Pause' : 'Play'}
               >
                 {isPlaying ? <Pause className="w-5 h-5" /> : <Play className="w-5 h-5" />}
@@ -148,7 +148,7 @@ export default function Timeline({
               {/* Speed Control */}
               <button
                 onClick={cycleSpeed}
-                className="px-4 py-2 glass rounded-lg hover:bg-white/10 transition-colors text-sm font-semibold"
+                className="px-6 py-3 sm:px-4 sm:py-2 min-h-touch glass rounded-lg hover:bg-white/10 transition-colors text-base sm:text-sm font-semibold"
               >
                 {playSpeed}x
               </button>

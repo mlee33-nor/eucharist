@@ -23,6 +23,32 @@
   .scrollbar-dark::-webkit-scrollbar-thumb:hover {
     background: rgba(255, 255, 255, 0.3);
   }
+
+  /* Mobile scrollbar - thinner for touch devices */
+  .scrollbar-mobile::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  /* Touch target utilities - minimum 48x48px for accessibility */
+  .touch-target {
+    min-height: 48px;
+    min-width: 48px;
+  }
+
+  /* Safe area support for notched devices */
+  .safe-top {
+    padding-top: max(1rem, env(safe-area-inset-top));
+  }
+
+  .safe-bottom {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  /* Mobile glassmorphism - more opaque for better readability */
+  .glass-mobile {
+    background: rgba(10, 10, 10, 0.85);
+    backdrop-filter: blur(12px);
+  }
 }
 
 /* Glassmorphism utility */
@@ -34,11 +60,11 @@
   }
 }
 
-/* Timeline Slider Styles */
+/* Timeline Slider Styles - Larger thumbs on mobile for better touch control */
 .timeline-slider::-webkit-slider-thumb {
   appearance: none;
-  width: 20px;
-  height: 20px;
+  width: 32px;
+  height: 32px;
   background: #d4af37;
   border-radius: 50%;
   cursor: pointer;
@@ -47,14 +73,12 @@
 }
 
 .timeline-slider::-webkit-slider-thumb:hover {
-  width: 24px;
-  height: 24px;
   box-shadow: 0 0 20px rgba(212, 175, 55, 0.8);
 }
 
 .timeline-slider::-moz-range-thumb {
-  width: 20px;
-  height: 20px;
+  width: 32px;
+  height: 32px;
   background: #d4af37;
   border-radius: 50%;
   cursor: pointer;
@@ -64,7 +88,28 @@
 }
 
 .timeline-slider::-moz-range-thumb:hover {
-  width: 24px;
-  height: 24px;
   box-shadow: 0 0 20px rgba(212, 175, 55, 0.8);
+}
+
+/* Desktop - Smaller thumbs */
+@media (min-width: 768px) {
+  .timeline-slider::-webkit-slider-thumb {
+    width: 24px;
+    height: 24px;
+  }
+
+  .timeline-slider::-webkit-slider-thumb:hover {
+    width: 28px;
+    height: 28px;
+  }
+
+  .timeline-slider::-moz-range-thumb {
+    width: 24px;
+    height: 24px;
+  }
+
+  .timeline-slider::-moz-range-thumb:hover {
+    width: 28px;
+    height: 28px;
+  }
 }

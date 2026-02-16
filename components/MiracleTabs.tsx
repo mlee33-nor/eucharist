@@ -87,7 +87,7 @@ export default function MiracleTabs({
           onClick={() => !tab.disabled && onTabChange(tab.id)}
           disabled={tab.disabled}
           className={cn(
-            'relative flex items-center gap-2 px-4 py-2 rounded-lg transition-all whitespace-nowrap',
+            'relative flex items-center gap-2 px-4 py-3 sm:py-2 min-h-touch rounded-lg transition-all whitespace-nowrap',
             'hover:bg-white/10',
             activeTab === tab.id
               ? 'text-holy-gold bg-white/10'

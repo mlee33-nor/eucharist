@@ -23,17 +23,17 @@ export default function ScienceTab({ miracle }: ScienceTabProps) {
   }
 
   return (
-    <div className="space-y-6">
-      <div className="flex items-center gap-3 mb-6">
-        <FlaskConical className="w-8 h-8 text-holy-gold" />
-        <h3 className="text-2xl font-semibold text-holy-gold">Scientific Evidence</h3>
+    <div className="space-y-4 sm:space-y-6">
+      <div className="flex items-center gap-3 mb-4 sm:mb-6">
+        <FlaskConical className="w-6 h-6 sm:w-8 sm:h-8 text-holy-gold" />
+        <h3 className="text-xl sm:text-2xl font-semibold text-holy-gold">Scientific Evidence</h3>
       </div>
 
       <div className="space-y-4">
         {miracle.scientificEvidence!.map((evidence, idx) => (
           <div
             key={idx}
-            className="p-4 bg-white/5 rounded-lg border border-holy-blue/30"
+            className="p-4 sm:p-6 bg-white/5 rounded-lg border border-holy-blue/30"
           >
             <div className="flex items-start gap-3">
               <div className="flex-shrink-0 w-8 h-8 rounded-full bg-holy-gold/20 flex items-center justify-center text-holy-gold font-semibold">

@@ -36,7 +36,7 @@ export default function Home() {
   }
 
   return (
-    <div className="relative w-screen h-screen overflow-hidden bg-black">
+    <div className="relative w-full min-h-screen overflow-hidden bg-black">
       {/* Navigation Bar */}
       <NavigationBar
         activeMode={activeMode}
@@ -45,7 +45,7 @@ export default function Home() {
       />
 
       {/* Mode Views with Smooth Transitions */}
-      <div className="absolute inset-0 top-16">
+      <div className="absolute inset-0 top-16 safe-bottom">
         <AnimatePresence mode="wait">
           <motion.div
             key={activeMode}

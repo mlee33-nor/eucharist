@@ -139,18 +139,14 @@ export default function MiraclePage() {
           <div className="lg:col-span-3 space-y-8">
             {/* Hero Section */}
             <div className="relative">
-              {/* Hero Image */}
-              {miracle.images && miracle.images.length > 0 ? (
+              {/* Hero Image - Hidden until images are uploaded */}
+              {false && miracle.images && miracle.images.length > 0 && (
                 <div className="aspect-video rounded-2xl overflow-hidden bg-black/40 border border-amber-500/20 mb-6">
                   <img
                     src={miracle.images[0]}
                     alt={miracle.name}
                     className="w-full h-full object-cover"
                   />
-                </div>
-              ) : (
-                <div className="aspect-video rounded-2xl overflow-hidden bg-gradient-to-br from-amber-500/10 to-amber-600/10 border border-amber-500/20 mb-6 flex items-center justify-center">
-                  <ImageIcon className="w-24 h-24 text-amber-500/20" />
                 </div>
               )}
 
@@ -211,12 +207,15 @@ export default function MiraclePage() {
                         {miracle.witnessTestimonies?.length || 0} testimonies
                       </p>
                     </div>
-                    <div>
-                      <p className="text-sm text-amber-100/60 mb-1">Images</p>
-                      <p className="text-amber-100 font-medium">
-                        {miracle.images?.length || 0} photos
-                      </p>
-                    </div>
+                    {/* Images count - Hidden until images are uploaded */}
+                    {false && (
+                      <div>
+                        <p className="text-sm text-amber-100/60 mb-1">Images</p>
+                        <p className="text-amber-100 font-medium">
+                          {miracle.images?.length || 0} photos
+                        </p>
+                      </div>
+                    )}
                   </div>
                 </div>
 
@@ -365,8 +364,8 @@ export default function MiraclePage() {
               </div>
             )}
 
-            {/* Image Gallery */}
-            {miracle.images && miracle.images.length > 1 && (
+            {/* Image Gallery - Hidden until images are uploaded */}
+            {false && miracle.images && miracle.images.length > 1 && (
               <div className="bg-black/40 backdrop-blur-sm border border-amber-500/20 rounded-xl p-6">
                 <h2 className="text-2xl font-bold text-amber-300 mb-4">Photo Gallery</h2>
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4">

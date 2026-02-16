@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from 'react';
 import dynamic from 'next/dynamic';
+import { Menu } from 'lucide-react';
 import Sidebar from '@/components/Sidebar';
 import MiracleModal from '@/components/MiracleModal';
 import Timeline from '@/components/Timeline';
@@ -20,6 +21,7 @@ interface GlobeModeProps {
 export default function GlobeMode({ miracles }: GlobeModeProps) {
   const [selectedMiracle, setSelectedMiracle] = useState<Miracle | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   // Timeline state
   const [isTimelineActive, setIsTimelineActive] = useState(false);
@@ -62,11 +64,22 @@ export default function GlobeMode({ miracles }: GlobeModeProps) {
 
   return (
     <div className="relative w-full h-full">
+      {/* Mobile Menu Toggle */}
+      <button
+        onClick={() => setIsSidebarOpen(!isSidebarOpen)}
+        className="lg:hidden fixed top-20 left-4 z-30 p-3 min-w-touch min-h-touch bg-black/50 backdrop-blur-md rounded-lg border border-white/10 hover:bg-white/10 transition-colors"
+        aria-label="Toggle menu"
+      >
+        <Menu className="w-6 h-6 text-holy-gold" />
+      </button>
+
       {/* Sidebar */}
       <Sidebar
         miracles={visibleMiracles}
         onMiracleSelect={handleMiracleSelect}
         selectedMiracle={selectedMiracle}
+        isOpen={isSidebarOpen}
+        onToggle={() => setIsSidebarOpen(!isSidebarOpen)}
       />
 
       {/* Globe */}

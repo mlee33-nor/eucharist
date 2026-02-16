@@ -52,8 +52,50 @@ export default function ComparisonTable({ miracles }: ComparisonTableProps) {
   }, {} as Record<string, ComparisonRow[]>);
 
   return (
-    <div className="overflow-x-auto">
-      <table className="w-full border-collapse">
+    <>
+      {/* Mobile Card Layout */}
+      <div className="md:hidden space-y-4">
+        {miracles.map((miracle, miracleIndex) => (
+          <div key={miracle.id} className="glass-mobile rounded-xl p-4">
+            <h3 className="text-lg font-bold text-holy-gold mb-2">
+              {miracle.name}
+            </h3>
+            <p className="text-sm text-amber-100/60 mb-4">
+              {miracle.city}, {miracle.country}
+            </p>
+
+            {Object.entries(groupedRows).map(([category, categoryRows]) => (
+              <div key={category} className="mb-4">
+                <h4 className="text-sm font-semibold text-amber-300 mb-2 uppercase tracking-wide">
+                  {getCategoryLabel(category as ComparisonRow['category'])}
+                </h4>
+                {categoryRows.map((row, rowIndex) => {
+                  const value = row.values[miracleIndex];
+                  const isMatch = row.isMatch && row.isMatch[miracleIndex];
+                  return (
+                    <div key={rowIndex} className="flex justify-between py-2 border-b border-white/10">
+                      <span className="text-sm text-white/70">{row.label}</span>
+                      <span className={cn(
+                        "text-sm font-medium flex items-center gap-1",
+                        isMatch && miracles.length > 1 ? "text-green-300" : "text-white"
+                      )}>
+                        {isMatch && miracles.length > 1 && (
+                          <Check className="w-3 h-3 text-green-400" />
+                        )}
+                        {String(value)}
+                      </span>
+                    </div>
+                  );
+                })}
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
+
+      {/* Desktop Table (existing) */}
+      <div className="hidden md:block overflow-x-auto">
+        <table className="w-full border-collapse">
         <thead>
           <tr>
             <th className="sticky left-0 z-10 bg-black/80 backdrop-blur-sm border border-amber-500/20 p-4 text-left">
@@ -127,7 +169,8 @@ export default function ComparisonTable({ miracles }: ComparisonTableProps) {
           ))}
         </tbody>
       </table>
-    </div>
+      </div>
+    </>
   );
 }
 

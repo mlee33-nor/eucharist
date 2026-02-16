@@ -11,15 +11,15 @@ export default function VisitTab({ miracle }: VisitTabProps) {
   const hasChurchInfo = miracle.churchInfo !== undefined;
 
   return (
-    <div className="space-y-6">
-      <h3 className="text-2xl font-semibold text-holy-gold flex items-center gap-3">
-        <Church className="w-7 h-7" />
+    <div className="space-y-4 sm:space-y-6">
+      <h3 className="text-xl sm:text-2xl font-semibold text-holy-gold flex items-center gap-3">
+        <Church className="w-6 h-6 sm:w-7 sm:h-7" />
         Visit This Miracle
       </h3>
 
       {/* Church Information */}
       {hasChurchInfo && (
-        <div className="p-6 bg-white/5 rounded-lg border border-white/10 space-y-4">
+        <div className="p-4 sm:p-6 bg-white/5 rounded-lg border border-white/10 space-y-4">
           <div>
             <div className="text-sm text-white/60 mb-1">Church</div>
             <div className="text-lg font-semibold">{miracle.churchInfo!.name}</div>
@@ -65,7 +65,7 @@ export default function VisitTab({ miracle }: VisitTabProps) {
       )}
 
       {/* Location Information */}
-      <div className="p-6 bg-white/5 rounded-lg border border-white/10">
+      <div className="p-4 sm:p-6 bg-white/5 rounded-lg border border-white/10">
         <div className="text-lg font-semibold mb-4">Location</div>
         <div className="space-y-2">
           <div className="flex items-center gap-2 text-white/80">
@@ -81,7 +81,7 @@ export default function VisitTab({ miracle }: VisitTabProps) {
           href={`https://www.google.com/maps?q=${miracle.lat},${miracle.lng}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 mt-4 px-4 py-2 bg-holy-blue text-white rounded-lg hover:bg-holy-blue/80 transition-colors"
+          className="inline-flex items-center gap-2 mt-4 px-4 py-3 sm:py-2 min-h-touch bg-holy-blue text-white rounded-lg hover:bg-holy-blue/80 transition-colors"
         >
           <MapPin className="w-4 h-4" />
           <span>View on Google Maps</span>

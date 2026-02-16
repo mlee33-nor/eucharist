@@ -94,13 +94,13 @@ export default function MiracleModal({
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.9, y: 20 }}
               transition={{ type: 'spring', duration: 0.5 }}
-              className="w-full max-w-4xl my-8"
+              className="w-full max-w-sm sm:max-w-md md:max-w-2xl lg:max-w-4xl mx-4 sm:mx-auto my-8"
             >
-              <GlassCard className="relative max-h-[90vh] overflow-y-auto scrollbar-dark">
+              <GlassCard className="relative max-h-[85vh] sm:max-h-[90vh] overflow-y-auto scrollbar-dark scrollbar-mobile">
                 {/* Close Button */}
                 <button
                   onClick={onClose}
-                  className="sticky top-4 float-right p-2 rounded-lg bg-black/50 hover:bg-white/10 transition-colors z-10"
+                  className="sticky top-4 float-right p-3 sm:p-2 min-w-touch min-h-touch rounded-lg bg-black/50 hover:bg-white/10 transition-colors z-10"
                   aria-label="Close modal"
                 >
                   <X className="w-5 h-5" />
@@ -109,7 +109,7 @@ export default function MiracleModal({
                 {/* Content */}
                 <div className="clear-both">
                   {/* Title */}
-                  <h2 className="text-3xl font-bold mb-6 text-holy-gold">
+                  <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-holy-gold">
                     {miracle.name}
                   </h2>
 

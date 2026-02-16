@@ -21,6 +21,15 @@ const config: Config = {
       fontFamily: {
         sans: ['var(--font-geist-sans)', 'Inter', 'system-ui'],
       },
+      spacing: {
+        'touch': '48px',
+      },
+      minHeight: {
+        'touch': '48px',
+      },
+      minWidth: {
+        'touch': '48px',
+      },
     },
   },
   plugins: [],

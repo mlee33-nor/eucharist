@@ -11,12 +11,16 @@ interface SidebarProps {
   miracles: Miracle[];
   onMiracleSelect: (miracle: Miracle) => void;
   selectedMiracle?: Miracle | null;
+  isOpen?: boolean;
+  onToggle?: () => void;
 }
 
 export default function Sidebar({
   miracles,
   onMiracleSelect,
-  selectedMiracle
+  selectedMiracle,
+  isOpen = true,
+  onToggle
 }: SidebarProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [expandedCountries, setExpandedCountries] = useState<Set<string>>(new Set());
@@ -72,13 +76,29 @@ export default function Sidebar({
   }, [searchQuery, miraclesByCountry]);
 
   return (
-    <motion.div
-      initial={{ x: -400, opacity: 0 }}
-      animate={{ x: 0, opacity: 1 }}
-      transition={{ duration: 0.5, ease: 'easeOut' }}
-      className="fixed left-0 top-0 h-screen w-[400px] z-10 flex flex-col"
-    >
-      <div className="glass h-full flex flex-col">
+    <>
+      {/* Backdrop overlay for mobile */}
+      {isOpen && onToggle && (
+        <div
+          className="lg:hidden fixed inset-0 bg-black/60 backdrop-blur-sm z-40"
+          onClick={onToggle}
+        />
+      )}
+
+      {/* Sidebar/Drawer */}
+      <motion.div
+        initial={{ x: -400, opacity: 0 }}
+        animate={{
+          x: isOpen ? 0 : -400,
+          opacity: isOpen ? 1 : 0
+        }}
+        transition={{ duration: 0.3, ease: 'easeOut' }}
+        className={cn(
+          "fixed left-0 top-0 h-screen z-50 flex flex-col",
+          "w-full sm:w-96 lg:w-80 lg:relative lg:translate-x-0 lg:opacity-100"
+        )}
+      >
+        <div className="glass h-full flex flex-col">
         {/* Header */}
         <div className="p-6 border-b border-white/10">
           <h1 className="text-2xl font-bold mb-2 text-holy-gold">
@@ -120,7 +140,7 @@ export default function Sidebar({
                 {/* Country Header */}
                 <button
                   onClick={() => toggleCountry(country)}
-                  className="w-full flex items-center justify-between p-3 rounded-lg bg-white/5 hover:bg-white/10 transition-colors mb-2"
+                  className="w-full flex items-center justify-between p-3 min-h-touch rounded-lg bg-white/5 hover:bg-white/10 transition-colors mb-2"
                 >
                   <div className="flex items-center gap-2">
                     <MapPin className="w-4 h-4 text-holy-gold" />
@@ -155,7 +175,7 @@ export default function Sidebar({
                         key={miracle.id}
                         onClick={() => onMiracleSelect(miracle)}
                         className={cn(
-                          'p-3 transition-all',
+                          'p-4 min-h-touch transition-all cursor-pointer',
                           selectedMiracle?.id === miracle.id
                             ? 'ring-2 ring-holy-gold bg-holy-gold/10'
                             : ''
@@ -179,6 +199,7 @@ export default function Sidebar({
           )}
         </div>
       </div>
-    </motion.div>
+      </motion.div>
+    </>
   );
 }
