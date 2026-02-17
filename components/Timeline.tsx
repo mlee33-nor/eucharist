@@ -36,14 +36,13 @@ export default function Timeline({
       const interval = 200 / playSpeed; // Speed multiplier
 
       intervalRef.current = setInterval(() => {
-        onYearChange((prevYear) => {
-          const nextYear = prevYear + increment;
-          if (nextYear > maxYear) {
-            setIsPlaying(false);
-            return maxYear;
-          }
-          return nextYear;
-        });
+        const nextYear = currentYear + increment;
+        if (nextYear > maxYear) {
+          setIsPlaying(false);
+          onYearChange(maxYear);
+        } else {
+          onYearChange(nextYear);
+        }
       }, interval);
 
       return () => {
@@ -177,24 +176,8 @@ export default function Timeline({
           {/* Slider Section */}
           {isExpanded && (
             <div className="flex-1 relative">
-              {/* Century Markers */}
-              <div className="absolute top-0 left-0 right-0 h-6 flex items-end">
-                {centuryMarkers.map(({ year, position }) => (
-                  <div
-                    key={year}
-                    className="absolute flex flex-col items-center"
-                    style={{ left: `${position}%`, transform: 'translateX(-50%)' }}
-                  >
-                    <div className="text-xs text-white/50 font-mono mb-1">
-                      {year}
-                    </div>
-                    <div className="w-px h-2 bg-white/30" />
-                  </div>
-                ))}
-              </div>
-
               {/* Slider */}
-              <div className="absolute top-10 left-0 right-0">
+              <div className="absolute top-0 left-0 right-0">
                 <input
                   type="range"
                   min={minYear}
@@ -213,23 +196,20 @@ export default function Timeline({
                 />
               </div>
 
-              {/* Decade Markers (subtle dots) */}
-              <div className="absolute top-10 left-0 right-0 pointer-events-none">
-                {Array.from({ length: Math.floor((maxYear - minYear) / 10) + 1 }, (_, i) => {
-                  const year = minYear + i * 10;
-                  const position = ((year - minYear) / (maxYear - minYear)) * 100;
-                  return (
-                    <div
-                      key={year}
-                      className="absolute w-1 h-1 bg-white/20 rounded-full"
-                      style={{
-                        left: `${position}%`,
-                        top: '50%',
-                        transform: 'translate(-50%, -50%)'
-                      }}
-                    />
-                  );
-                })}
+              {/* Century Markers - below slider */}
+              <div className="absolute top-6 left-0 right-0">
+                {centuryMarkers.map(({ year, position }) => (
+                  <div
+                    key={year}
+                    className="absolute flex flex-col items-center"
+                    style={{ left: `${position}%`, transform: 'translateX(-50%)' }}
+                  >
+                    <div className="w-px h-2 bg-amber-400/60" />
+                    <div className="text-xs text-amber-300/90 font-mono mt-0.5 whitespace-nowrap">
+                      {year}
+                    </div>
+                  </div>
+                ))}
               </div>
             </div>
           )}

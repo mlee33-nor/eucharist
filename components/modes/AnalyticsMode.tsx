@@ -20,17 +20,17 @@ interface AnalyticsModeProps {
 }
 
 const COLORS = [
-  '#fbbf24', // amber-400
-  '#f59e0b', // amber-500
-  '#d97706', // amber-600
-  '#b45309', // amber-700
-  '#92400e', // amber-800
-  '#78350f', // amber-900
-  '#fcd34d', // amber-300
-  '#fde68a', // amber-200
-  '#fef3c7', // amber-100
-  '#fffbeb', // amber-50
-  '#451a03', // amber-950
+  '#fbbf24', // gold
+  '#60a5fa', // blue
+  '#34d399', // green
+  '#f472b6', // pink
+  '#a78bfa', // purple
+  '#fb923c', // orange
+  '#2dd4bf', // teal
+  '#f87171', // red
+  '#818cf8', // indigo
+  '#4ade80', // light green
+  '#facc15', // yellow
 ];
 
 export default function AnalyticsMode({ miracles }: AnalyticsModeProps) {
@@ -56,31 +56,35 @@ export default function AnalyticsMode({ miracles }: AnalyticsModeProps) {
             <h3 className="text-xl font-semibold text-amber-300 mb-4">
               Miracles by Country
             </h3>
-            <ResponsiveContainer width="100%" height={300}>
-              <PieChart>
-                <Pie
-                  data={countryData}
-                  dataKey="count"
-                  nameKey="country"
-                  cx="50%"
-                  cy="50%"
-                  outerRadius={100}
-                  label={(entry) => `${entry.country}: ${entry.count}`}
-                >
-                  {countryData.map((entry, index) => (
-                    <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                  ))}
-                </Pie>
-                <Tooltip
-                  contentStyle={{
-                    backgroundColor: 'rgba(0, 0, 0, 0.9)',
-                    border: '1px solid rgba(251, 191, 36, 0.2)',
-                    borderRadius: '8px',
-                    color: '#fbbf24'
-                  }}
-                />
-              </PieChart>
-            </ResponsiveContainer>
+            <div style={{ outline: 'none' }}>
+              <ResponsiveContainer width="100%" height={300}>
+                <PieChart style={{ outline: 'none' }}>
+                  <Pie
+                    data={countryData}
+                    dataKey="count"
+                    nameKey="country"
+                    cx="50%"
+                    cy="50%"
+                    outerRadius={100}
+                    label={(entry: any) => `${entry.country}: ${entry.count}`}
+                    isAnimationActive={false}
+                    style={{ outline: 'none', cursor: 'default' }}
+                  >
+                    {countryData.map((entry, index) => (
+                      <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} style={{ outline: 'none' }} />
+                    ))}
+                  </Pie>
+                  <Tooltip
+                    contentStyle={{
+                      backgroundColor: 'rgba(0, 0, 0, 0.9)',
+                      border: '1px solid rgba(251, 191, 36, 0.2)',
+                      borderRadius: '8px',
+                      color: '#fbbf24'
+                    }}
+                  />
+                </PieChart>
+              </ResponsiveContainer>
+            </div>
           </div>
 
           {/* Miracles by Century - Bar Chart */}
@@ -133,45 +137,50 @@ export default function AnalyticsMode({ miracles }: AnalyticsModeProps) {
             <h3 className="text-xl font-semibold text-amber-300 mb-4">
               Evidence Quality Distribution
             </h3>
-            <ResponsiveContainer width="100%" height={300}>
-              <PieChart>
-                <Pie
-                  data={evidenceData}
-                  dataKey="count"
-                  nameKey="quality"
-                  cx="50%"
-                  cy="50%"
-                  innerRadius={60}
-                  outerRadius={100}
-                  label={(entry) => `${entry.quality}: ${entry.count}`}
-                >
-                  {evidenceData.map((entry, index) => (
-                    <Cell
-                      key={`cell-${index}`}
-                      fill={
-                        entry.quality === 'High'
-                          ? '#22c55e'
-                          : entry.quality === 'Medium'
-                          ? '#fbbf24'
-                          : '#ef4444'
-                      }
-                    />
-                  ))}
-                </Pie>
-                <Tooltip
-                  contentStyle={{
-                    backgroundColor: 'rgba(0, 0, 0, 0.9)',
-                    border: '1px solid rgba(251, 191, 36, 0.2)',
-                    borderRadius: '8px',
-                    color: '#fbbf24'
-                  }}
-                />
-              </PieChart>
-            </ResponsiveContainer>
+            <div style={{ outline: 'none' }}>
+              <ResponsiveContainer width="100%" height={300}>
+                <PieChart style={{ outline: 'none' }}>
+                  <Pie
+                    data={evidenceData}
+                    dataKey="count"
+                    nameKey="quality"
+                    cx="50%"
+                    cy="50%"
+                    innerRadius={60}
+                    outerRadius={100}
+                    label={(entry: any) => `${entry.quality}: ${entry.count}`}
+                    isAnimationActive={false}
+                    style={{ outline: 'none', cursor: 'default' }}
+                  >
+                    {evidenceData.map((entry, index) => (
+                      <Cell
+                        key={`cell-${index}`}
+                        fill={
+                          entry.quality === 'High'
+                            ? '#22c55e'
+                            : entry.quality === 'Medium'
+                            ? '#fbbf24'
+                            : '#ef4444'
+                        }
+                        style={{ outline: 'none' }}
+                      />
+                    ))}
+                  </Pie>
+                  <Tooltip
+                    contentStyle={{
+                      backgroundColor: 'rgba(0, 0, 0, 0.9)',
+                      border: '1px solid rgba(251, 191, 36, 0.2)',
+                      borderRadius: '8px',
+                      color: '#fbbf24'
+                    }}
+                  />
+                </PieChart>
+              </ResponsiveContainer>
+            </div>
             <div className="mt-4 text-sm text-amber-100/60">
-              <p>• High: Scientific evidence + testimonies + images</p>
-              <p>• Medium: 2 of the above</p>
-              <p>• Low: 1 or none</p>
+              <p>• High: Scientific evidence + testimonies</p>
+              <p>• Medium: One of the above</p>
+              <p>• Low: Neither</p>
             </div>
           </div>
 

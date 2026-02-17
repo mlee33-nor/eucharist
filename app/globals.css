@@ -51,6 +51,13 @@
   }
 }
 
+/* Remove focus outlines on recharts interactive elements */
+.recharts-wrapper:focus,
+.recharts-wrapper *:focus,
+.recharts-surface:focus {
+  outline: none !important;
+}
+
 /* Glassmorphism utility */
 @layer components {
   .glass {

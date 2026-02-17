@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:americaneedsfatima.org)",
+      "WebFetch(domain:perpetualeucharisticadoration.com)",
+      "Bash(node -e:*)",
+      "Bash(node:*)",
+      "WebFetch(domain:www.miracolieucaristici.org)",
+      "WebFetch(domain:www.therealpresence.org)",
+      "WebFetch(domain:www.deepertruthcatholics.com)",
+      "WebFetch(domain:stswithuns.org.uk)"
+    ]
+  }
+}

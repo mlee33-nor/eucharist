@@ -81,34 +81,23 @@ export function getEvidenceQuality(miracles: Miracle[]): EvidenceQuality[] {
   let low = 0;
 
   miracles.forEach(miracle => {
-    let score = 0;
+    const hasScientific = !!(miracle.scientificEvidence && miracle.scientificEvidence.length > 0);
+    const hasTestimonies = !!(miracle.witnessTestimonies && miracle.witnessTestimonies.length > 0);
 
-    // Check for scientific evidence
-    if (miracle.scientificEvidence && miracle.scientificEvidence.length > 0) {
-      score++;
-    }
-
-    // Check for witness testimonies
-    if (miracle.witnessTestimonies && miracle.witnessTestimonies.length > 0) {
-      score++;
-    }
-
-    // Check for images
-    if (miracle.images && miracle.images.length > 0) {
-      score++;
-    }
-
-    if (score >= 3) high++;
-    else if (score >= 2) medium++;
+    // High: both scientific evidence AND witness testimonies documented
+    if (hasScientific && hasTestimonies) high++;
+    // Medium: only one of the two
+    else if (hasScientific || hasTestimonies) medium++;
+    // Low: neither
     else low++;
   });
 
   const total = miracles.length;
-  return [
-    { quality: 'High', count: high, percentage: (high / total) * 100 },
-    { quality: 'Medium', count: medium, percentage: (medium / total) * 100 },
-    { quality: 'Low', count: low, percentage: (low / total) * 100 }
-  ].filter(item => item.count > 0);
+  return ([
+    { quality: 'High' as const, count: high, percentage: (high / total) * 100 },
+    { quality: 'Medium' as const, count: medium, percentage: (medium / total) * 100 },
+    { quality: 'Low' as const, count: low, percentage: (low / total) * 100 }
+  ] as EvidenceQuality[]).filter(item => item.count > 0);
 }
 
 // Get featured miracles
