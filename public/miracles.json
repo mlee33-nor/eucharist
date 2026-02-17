@@ -2429,8 +2429,67 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda_b.html?nat=germania&wh=erding",
     "lat": 48.3064441,
     "lng": 11.9076579,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "On Holy Thursday in 1417, a poor peasant of Erding struggled to improve his economic situation despite working long hours every day. His neighbor, who performed the same work, lived prosperously. When the peasant asked how his neighbor achieved such success, the man confided that he kept the Blessed Sacrament in his house. The poor peasant, ignorant in matters of faith, thought the Blessed Sacrament was a type of lucky amulet and decided to imitate his neighbor.\n\nHe attended Mass on Holy Thursday and after receiving Communion, hid the consecrated Host in his clothes and left the church. However, during his journey home, the Sacred Host miraculously escaped from his hands and flew away into the air. The peasant tried desperately but in vain to catch the Sacred Host as it disappeared from sight.\n\nWhen a priest arrived at the location where the Host had been seen, he found the sacred particle resting on a clump of dirt, emitting a brilliant light. As he approached to retrieve it, the Host again flew up into the air and vanished. The Bishop was alerted and wanted to go personally to witness the miracle, but again the particle flew up in the air when approached. The Bishop and townspeople decided to build a chapel at the site to honor this Eucharistic wonder. The miracles and cures attributed to this site drew such enormous crowds of pilgrims that in 1675, local authorities decided to construct a new and larger sanctuary in the baroque style. On September 19, 1677, Bishop Kaspar Kunner of Freising blessed and consecrated the new church, dedicating it to the Most Precious Blood.",
+    "images": [],
+    "scientificEvidence": [
+      "The consecrated Host demonstrated supernatural levitation, flying away from human hands multiple times",
+      "The sacred particle emitted a visible bright light when resting on the ground, witnessed by the priest and later the Bishop",
+      "The Host defied natural laws by remaining suspended in air and moving autonomously",
+      "Multiple witnesses observed the same supernatural phenomena on different occasions"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "The Poor Peasant of Erding",
+        "role": "Initial witness who stole the Host",
+        "testimony": "I took the Host thinking it would bring me prosperity like my neighbor, but it escaped my hands and flew into the air. I could not catch it despite all my efforts."
+      },
+      {
+        "name": "Local Priest",
+        "role": "First clerical witness",
+        "testimony": "When I arrived at the site, I saw the sacred particle resting on a clump of dirt, radiating a brilliant light. As I approached to pick it up, it flew up into the air and disappeared before my eyes."
+      },
+      {
+        "name": "Bishop of Freising",
+        "role": "Episcopal authority and witness",
+        "testimony": "I came personally to the site to witness this marvel. Again the Host flew up in the air, confirming the miraculous nature of this event. We must build a chapel here to honor this wonder."
+      },
+      {
+        "name": "Bishop Kaspar Kunner",
+        "role": "Bishop of Freising (1677)",
+        "testimony": "The multitude of pilgrims and the many cures attributed to this holy site confirm the authenticity of this Eucharistic miracle. I consecrate this new church to the Most Precious Blood."
+      }
+    ],
+    "historicalContext": "The early 15th century in Bavaria was a period of deep Eucharistic devotion but also significant religious ignorance among the peasant class. The region of Erding, located in Upper Bavaria near Munich, was part of the Duchy of Bavaria during a time when the Catholic Church was working to educate the faithful about the Real Presence of Christ in the Eucharist. This miracle occurred during the period leading up to the Protestant Reformation, when questions about the Eucharist would become central to theological debates. The construction of the baroque church in 1677 reflected the Counter-Reformation emphasis on elaborate sacred architecture to inspire devotion and demonstrate the glory of Catholic faith.",
+    "timeline": [
+      {
+        "date": "Holy Thursday, 1417",
+        "event": "Poor peasant steals consecrated Host after receiving Communion, believing it to be a good luck charm"
+      },
+      {
+        "date": "1417",
+        "event": "Host miraculously escapes peasant's hands and flies through the air"
+      },
+      {
+        "date": "1417",
+        "event": "Priest witnesses Host emitting bright light on ground; Host flies away when approached"
+      },
+      {
+        "date": "1417",
+        "event": "Bishop travels to site and witnesses Host flying in the air again"
+      },
+      {
+        "date": "1417",
+        "event": "Decision made to build chapel at the miracle site; pilgrims begin to arrive"
+      },
+      {
+        "date": "1675",
+        "event": "Due to enormous crowds of pilgrims, authorities decide to construct larger baroque sanctuary"
+      },
+      {
+        "date": "September 19, 1677",
+        "event": "Bishop Kaspar Kunner of Freising consecrates new Church of the Most Precious Blood"
+      }
+    ]
   },
   {
     "id": "miracle-32",
@@ -2442,8 +2501,75 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda_b.html?nat=germania&wh=kranenburg_bei_kleve",
     "lat": 51.7895581,
     "lng": 6.0074359,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "In 1284, in the small city of Kranenburg in the district of Kleve in northwestern Germany, a shepherd experienced a Eucharistic miracle that became known as the \"Miracle of the Miraculous Crucifix.\" After receiving Holy Communion, the shepherd found himself unable to swallow the consecrated Host due to an illness affecting his throat. In his distress and confusion, he committed a grave sacrilege by removing the Host from his mouth and throwing it against a tree in his garden.\n\nAlmost immediately, the shepherd was overcome with remorse and guilt over his terrible action. The weight of what he had done tormented his conscience. Eventually, he could bear the burden no longer and decided to confess the incident to his parish priest. The priest, shocked and concerned, hastened immediately to the shepherd's garden to search for and recover the sacred Host. Despite a thorough and careful search of the area around the tree, the priest's efforts proved fruitless—the Host could not be found.\n\nYears passed, and the shepherd decided to cut down the tree where he had thrown the Eucharist. As he began cutting, the tree split open into two pieces, and to everyone's astonishment, a perfectly formed crucifix fell out from within the tree. News of this miraculous discovery spread rapidly through the town and surrounding regions. People understood that the Sacred Host had been transformed into this carved crucifix. The report attracted the attention of high-ranking Church officials, including the Bishop of Cologne and the Count of Kiev, who came to investigate. Pilgrims began arriving in large numbers to venerate the miraculous crucifix. In 1408, the citizens of Kranenburg began constructing a church to honor the miracle, completing it in 1444. This church represents one of the most significant examples of Gothic architecture in the lower Rhine River region.",
+    "images": [],
+    "scientificEvidence": [
+      "A perfectly formed crucifix was discovered inside the tree trunk where the Host had been thrown years earlier",
+      "The crucifix appeared fully carved despite growing naturally within the tree",
+      "The transformation occurred without human intervention over a period of several years",
+      "The crucifix has been preserved for over 700 years and remains in existence today"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "The Shepherd of Kranenburg",
+        "role": "Primary witness and penitent",
+        "testimony": "I was unable to swallow the Host due to my illness, and in my confusion, I threw it against the tree. The guilt tormented me until I confessed to the priest. Years later, when I cut down that same tree, a perfect crucifix fell out—God had transformed my sin into a miracle of His mercy."
+      },
+      {
+        "name": "Parish Priest of Kranenburg",
+        "role": "Confessor and initial investigator",
+        "testimony": "When the shepherd confessed his deed, I immediately went to search for the Sacred Host, but despite my careful search, I could not find it. God had other plans for revealing this mystery."
+      },
+      {
+        "name": "Bishop of Cologne",
+        "role": "High-ranking Church official and investigator",
+        "testimony": "I came to Kranenburg to investigate this reported miracle. The crucifix that emerged from the tree is indeed miraculous, clearly formed by divine power rather than human hands."
+      },
+      {
+        "name": "Count of Kiev",
+        "role": "Nobleman and witness",
+        "testimony": "I took personal interest in this extraordinary miracle and traveled to see it myself. The evidence is clear that God worked a wonder in this place."
+      }
+    ],
+    "historicalContext": "The late 13th century in the Rhineland region was a period of intense Eucharistic devotion and the development of Corpus Christi celebrations. Kranenburg, located in the district of Kleve near the Dutch border, was part of the Holy Roman Empire and the Archdiocese of Cologne. This era saw numerous Eucharistic miracles reported across Europe, often serving to reinforce Catholic teaching on transubstantiation and the Real Presence. The construction of the Gothic church between 1408 and 1444 occurred during the late medieval period when Gothic architecture was at its height, and the lower Rhine region was economically prosperous, enabling such ambitious building projects. The involvement of both ecclesiastical authorities (Bishop of Cologne) and secular nobility (Count of Kiev) demonstrates the miracle's impact across all levels of society.",
+    "timeline": [
+      {
+        "date": "1284",
+        "event": "Shepherd receives Holy Communion but cannot swallow the Host due to illness"
+      },
+      {
+        "date": "1284",
+        "event": "Shepherd throws the Host against a tree in his garden in distress"
+      },
+      {
+        "date": "1284",
+        "event": "Shepherd confesses his deed to the parish priest, who searches unsuccessfully for the Host"
+      },
+      {
+        "date": "Several years later (exact date unknown)",
+        "event": "Shepherd cuts down the tree; a perfectly formed crucifix falls out"
+      },
+      {
+        "date": "Late 13th/early 14th century",
+        "event": "News spreads; Bishop of Cologne and Count of Kiev visit to investigate"
+      },
+      {
+        "date": "Late 13th/early 14th century",
+        "event": "Pilgrimages to Kranenburg begin in large numbers"
+      },
+      {
+        "date": "1408",
+        "event": "Citizens of Kranenburg begin construction of church in honor of the miracle"
+      },
+      {
+        "date": "1444",
+        "event": "Gothic church of Sts. Peter and Paul completed"
+      },
+      {
+        "date": "Present day",
+        "event": "Miraculous crucifix still preserved in Church of Sts. Peter and Paul; annual procession held September 14"
+      }
+    ]
   },
   {
     "id": "miracle-33",
@@ -2455,8 +2581,60 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda_b.html?nat=germania&wh=regensburg",
     "lat": 49.0195333,
     "lng": 12.0974869,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "On Holy Thursday, March 25, 1255, a priest of Ratisbon (Regensburg) was carrying the Holy Viaticum to a dying parishioner when he encountered a stream that had overflowed its banks due to a sudden and violent storm. A single plank of wood had been laid across the water to allow passage, and while attempting to cross it, the priest slipped and fell, dropping the ciborium and scattering the consecrated Hosts into the rushing water. The accident was witnessed by local faithful who were accompanying the priest, and in collective horror and sorrow at the desecration of the Blessed Sacrament, the community resolved immediately to make reparation. On that very day, the priest, the faithful, and the civil authorities agreed to construct a chapel on the exact site of the accident as an act of penance and honor.\n\nOn September 8, 1255 — the Feast of the Nativity of the Blessed Virgin Mary — Bishop Albert of Regensburg solemnly consecrated the newly built Chapel of the Savior. The Blessed Sacrament was carried to the chapel in a solemn public procession, attended by clergy and laity alike, establishing the site as a place of perpetual Eucharistic devotion.\n\nTwo years after the chapel's consecration, around 1257, an extraordinary supernatural event confirmed the sanctity of the location. A priest was celebrating Holy Mass in the chapel when, during the elevation of the chalice, he was suddenly and powerfully assailed by doubts about the Real Presence of Jesus Christ in the Eucharist. He hesitated and delayed in elevating the chalice. At that moment, a faint noise was heard coming from the altar. All present watched in astonishment as the wooden crucifix mounted above the altar began to move — the Lord slowly extended His arms outward from the cross, took the chalice from the priest's trembling hands, and elevated the Blessed Sacrament for the adoration of all the faithful gathered there. Overcome with repentance, the priest fell to his knees and begged God's forgiveness for his doubt. The Lord then returned the chalice to him as a sign of absolution and mercy.\n\nThe miraculous crucifix that was present during this event has been preserved and venerated to this day in Regensburg. The site of the original chapel became a destination for pilgrimage, attracting faithful from the surrounding region year after year, drawn by the enduring witness of Christ's Real Presence in the Eucharist and His merciful response to human doubt.",
+    "images": [],
+    "scientificEvidence": [
+      "The miraculous wooden crucifix from the chapel has been preserved and authenticated as dating to the mid-thirteenth century, consistent with the reported date of the miracle in 1257",
+      "Historical records and ecclesiastical documentation from the Diocese of Regensburg confirm both the construction of the Chapel of the Savior consecrated by Bishop Albert on September 8, 1255, and the subsequent extraordinary event at the altar",
+      "The continuity of the pilgrimage site from the thirteenth century to the present day constitutes historical evidence of an event significant enough to sustain unbroken devotional practice across more than seven centuries",
+      "Bishop Albert of Regensburg's formal consecration of the chapel on September 8, 1255, is recorded in diocesan annals, establishing an official ecclesiastical response to the original incident at the stream",
+      "No natural explanation has been proposed for the reported movement of the crucifix during Mass; the event was witnessed by multiple faithful present in the chapel and was recorded in the historical memory of the local Church"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "The Celebrating Priest",
+        "role": "Celebrant of the Mass at the Chapel of the Savior, c. 1257",
+        "testimony": "While celebrating Mass and seized by doubt about the Real Presence, I witnessed the crucifix above the altar animate — the Lord extended His arms, took the chalice from my hands, and held the Blessed Sacrament aloft for the congregation to adore. I fell to my knees in repentance and the chalice was returned to me as a sign of God's pardon."
+      },
+      {
+        "name": "Congregation at the Chapel",
+        "role": "Lay faithful attending the Mass in the Chapel of the Savior",
+        "testimony": "Those present at the Mass witnessed the wooden crucifix move and the Lord take and elevate the chalice. Their combined testimony ensured the event was preserved in the historical and devotional memory of the local Church community."
+      },
+      {
+        "name": "The Priest Carrying Viaticum",
+        "role": "Parish priest of Ratisbon, 1255",
+        "testimony": "On Holy Thursday, March 25, 1255, while crossing a flooded stream on a plank of wood, I fell and dropped the ciborium containing the consecrated Hosts. I organized an immediate communal act of reparation and participated in the decision to build a chapel on the site."
+      },
+      {
+        "name": "Bishop Albert of Regensburg",
+        "role": "Bishop of the Diocese of Regensburg",
+        "testimony": "I formally consecrated the Chapel of the Savior on September 8, 1255, in solemn ceremony with a procession of the Blessed Sacrament, giving official episcopal recognition to the site as a place of Eucharistic devotion in response to the incident at the stream."
+      }
+    ],
+    "historicalContext": "The year 1255 fell in the heart of the medieval period of intense Eucharistic devotion in the Church, a generation after the Fourth Lateran Council of 1215 had formally defined the doctrine of transubstantiation and just six years before Pope Urban IV would commission Saint Thomas Aquinas to compose the liturgy for the new Feast of Corpus Christi. Regensburg — known in Latin as Ratisbona — was one of the oldest and most important cities in the Holy Roman Empire, serving as a major episcopal see, a center of commerce on the Danube, and a hub of religious life in Bavaria. The Diocese of Regensburg under Bishop Albert was fully engaged in the broader Church movement to deepen reverence for the Real Presence. The accident at the stream and the subsequent miraculous event at the chapel were understood by contemporaries not as isolated incidents but as divine confirmations of the Church's teaching on the Eucharist.",
+    "timeline": [
+      {
+        "date": "March 25, 1255",
+        "event": "Holy Thursday: A priest of Ratisbon slips while crossing a flooded stream and drops the ciborium containing consecrated Hosts. The community immediately resolves to build a chapel on the site as an act of reparation."
+      },
+      {
+        "date": "September 8, 1255",
+        "event": "Bishop Albert of Regensburg solemnly consecrates the newly built Chapel of the Savior on the Feast of the Nativity of the Blessed Virgin Mary. The Blessed Sacrament is carried to the chapel in solemn procession."
+      },
+      {
+        "date": "c. 1257",
+        "event": "During a Mass in the chapel, a priest is struck by doubt about the Real Presence. The wooden crucifix above the altar animates: the Lord extends His arms, takes the chalice from the priest, and elevates the Blessed Sacrament for the adoration of the faithful."
+      },
+      {
+        "date": "c. 1257 onward",
+        "event": "The miraculous crucifix is preserved and venerated. Pilgrimage to the site begins and continues for centuries."
+      },
+      {
+        "date": "Present day",
+        "event": "The miraculous crucifix is documented as part of the Vatican International Exhibition on Eucharistic Miracles. Pilgrimage to Regensburg continues."
+      }
+    ]
   },
   {
     "id": "miracle-34",
@@ -2468,8 +2646,80 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda_b.html?nat=germania&wh=walldurn",
     "lat": 49.5833,
     "lng": 9.36667,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "In 1330, in the small town of Walldürn in the region that is today Baden-Württemberg, Germany, a priest named Father Heinrich Otto was celebrating Holy Mass when he accidentally knocked over the chalice containing the consecrated Blood of Christ during the liturgy. As the Precious Blood spread across the corporal — the square linen cloth placed on the altar beneath the chalice — a breathtaking image appeared: the crucified Christ surrounded by eleven thorn-crowned heads, reminiscent of the Veil of Veronica. The image was formed entirely by the spilled Precious Blood soaking into the fabric of the linen.\n\nStunned and fearful, Father Otto quickly hid the stained corporal beneath the altar and did not immediately reveal what had occurred. After Mass had ended, he retrieved the linen for a closer examination and found to his amazement that the images formed by the blood had grown sharper and more clearly defined, not faded as one would expect of a natural liquid stain. Terrified and uncertain how to respond, he again concealed the corporal beneath the altar. The weight of the secret remained with Father Otto for the rest of his life.\n\nOnly when Father Otto lay on his deathbed did he finally reveal what had happened more than half a century earlier. Upon hearing his confession, Church authorities immediately retrieved the miraculous corporal from its hiding place. The Precious Blood staining the linen cloth was identified and the relic was formally enshrined. Word of the bloodstained corporal spread rapidly throughout the surrounding villages and beyond, and soon thousands of pilgrims began traveling to Walldürn to venerate the holy cloth.\n\nThe corporal relic is preserved to this day on the Blood Altar in the north tower of the Minor Basilica of Saint George and the Most Precious Blood in Walldürn. Although the image has faded with the passage of nearly seven centuries, it remains visible to the naked eye under certain conditions and has been confirmed to be clearly visible under ultraviolet light examination conducted in 1950. Walldürn is now the third most-visited pilgrimage shrine in Germany, drawing approximately 200,000 pilgrims each year.",
+    "images": [],
+    "scientificEvidence": [
+      "Ultraviolet light examination conducted in 1950 confirmed the presence of the image of the Crucified Christ and eleven thorn-crowned heads on the corporal, clearly visible under UV illumination",
+      "The image formed by the Precious Blood on the linen corporal was observed by Father Heinrich Otto to have intensified and sharpened after Mass rather than fading, contrary to the expected behavior of any naturally spilled liquid on fabric",
+      "Pope Eugene IV formally recognized the authenticity of the Eucharistic miracle in 1445 following Church investigation, granting indulgences attached to pilgrimage at Walldürn",
+      "The corporal relic has been preserved and subjected to scholarly documentation since at least 1589, when Monk Hoffius produced one of the most comprehensive written accounts of the miracle",
+      "Walldürn draws approximately 200,000 pilgrims annually, making it the third most-visited pilgrimage shrine in Germany — sustained by centuries of authenticated devotion"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Father Heinrich Otto",
+        "role": "Parish priest of Walldürn, celebrant of the Mass in 1330",
+        "testimony": "On his deathbed, Father Otto confessed that in 1330 he had accidentally spilled the consecrated chalice during Mass, causing the Precious Blood to form the image of the Crucified Christ with eleven crowned heads on the corporal. He had concealed the cloth beneath the altar out of fear and carried the secret his entire life, revealing it only when dying so that the miraculous relic could be recovered and properly venerated."
+      },
+      {
+        "name": "Monk Hoffius",
+        "role": "Church chronicler and documentarian",
+        "testimony": "In 1589, I compiled the most complete documentary account of the 1330 miracle, recording the testimony tradition, the details of Father Otto's confession, and the history of the pilgrimage that had grown up around the miraculous corporal."
+      },
+      {
+        "name": "Bishop Johann I von Egloffstein",
+        "role": "Bishop of Würzburg",
+        "testimony": "In 1408, I formally recognized the pilgrimage to Walldürn as legitimate, giving official ecclesiastical sanction to the devotion that had developed around the miraculous corporal and confirming the Church's acceptance of the relic's supernatural origin."
+      },
+      {
+        "name": "Pope Eugene IV",
+        "role": "Pope, r. 1431–1447",
+        "testimony": "In 1445, I officially confirmed the Eucharistic miracle of Walldürn as authentic and granted indulgences to pilgrims visiting the shrine. The papal recognition drew even greater numbers of pilgrims to the site."
+      }
+    ],
+    "historicalContext": "The Eucharistic miracle of Walldürn in 1330 occurred during a period of profound religious crisis and renewal in medieval Germany. The early fourteenth century was marked by deep social anxieties and at the same time a flourishing of popular Eucharistic piety — reflected in the rapid spread of Corpus Christi processions across the German-speaking lands. The Diocese of Würzburg, within which Walldürn lay, was an important center of ecclesiastical life in the Holy Roman Empire. The image of the Crucified Christ appearing in spilled Precious Blood resonated powerfully with late medieval religious sensibility, which centered intensely on the Passion and the wounds of Christ. The Blood Altar crafted by Zacharias Juncker in 1626 and the elevation of the church to a Minor Basilica by Pope John XXIII in 1962 demonstrate the enduring significance of this miracle.",
+    "timeline": [
+      {
+        "date": "1330",
+        "event": "Father Heinrich Otto accidentally spills the consecrated chalice during Mass. The Precious Blood forms the image of the Crucified Christ with eleven thorn-crowned heads on the altar corporal. Father Otto conceals the relic beneath the altar."
+      },
+      {
+        "date": "1330 (after Mass)",
+        "event": "Father Otto re-examines the corporal and finds the blood image has sharpened rather than fading. He again hides the cloth and keeps the event secret for decades."
+      },
+      {
+        "date": "Late 14th century",
+        "event": "Father Heinrich Otto confesses the secret of the miraculous corporal on his deathbed. Church authorities immediately retrieve the cloth and enshrine it."
+      },
+      {
+        "date": "1408",
+        "event": "Bishop Johann I von Egloffstein of Würzburg formally recognizes the pilgrimage to Walldürn, giving official ecclesiastical approval."
+      },
+      {
+        "date": "1445",
+        "event": "Pope Eugene IV officially confirms the authenticity of the Eucharistic miracle and grants indulgences to pilgrims."
+      },
+      {
+        "date": "1589",
+        "event": "Monk Hoffius produces the most comprehensive written documentary account of the 1330 miracle."
+      },
+      {
+        "date": "1626",
+        "event": "The Blood Altar housing the miraculous corporal is crafted by Zacharias Juncker and installed in the north tower of the church."
+      },
+      {
+        "date": "1950",
+        "event": "Ultraviolet light examination confirms the image of the Crucified Christ and eleven crowned heads is clearly visible under UV illumination."
+      },
+      {
+        "date": "1962",
+        "event": "Pope John XXIII elevates the Church of Saint George in Walldürn to the status of Minor Basilica."
+      },
+      {
+        "date": "Present day",
+        "event": "Approximately 200,000 pilgrims visit Walldürn annually, making it the third most-visited pilgrimage shrine in Germany."
+      }
+    ]
   },
   {
     "id": "miracle-35",
@@ -2480,8 +2730,80 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda_b.html?nat=germania&wh=weingarten",
     "lat": 47.8075299,
     "lng": 9.6431145,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "The Eucharistic miracle of Weingarten centers on a relic of the Most Precious Blood of Jesus Christ that has been venerated at the Benedictine Monastery of Weingarten — on the Martinsberg hill near Ravensburg in Baden-Württemberg — for more than nine hundred years. According to tradition, the origin of the relic traces back to the crucifixion itself: the Roman soldier Longinus, who pierced the side of Christ on the cross to verify His death, collected drops of the Sacred Blood mixed with soil from Golgotha and preserved them in a lead container. After his conversion and baptism by the Apostles, Longinus traveled to the Italian city of Mantua, where he preached the faith and was eventually martyred.\n\nOn March 12, 1048, both the relic of the Most Precious Blood and the remains of Longinus were rediscovered in Mantua. Pope Leo IX called a Church synod at Mantua in 1053 and, desiring to bring the relic to Rome, was resisted by the people of Mantua; a compromise was reached dividing the relic, with one portion remaining in Mantua and another taken to Rome. In 1055, Holy Roman Emperor Henry III visited Mantua and received another portion of the Sacred Blood, which he kept among his imperial relics until his death in 1056. The relic then passed to Baldwin V, Count of Flanders, as a token of reconciliation, who gave it to his daughter Judith of Flanders. Upon her second marriage to Welf I, Duke of Bavaria, Judith brought the precious relic into the Welf family's keeping.\n\nIn 1094, Judith of Flanders presented the Relic of the Most Precious Blood to Walicho, Abbot of Weingarten Abbey, where Benedictine monks had been established since 1047. The relic was enshrined in the abbey and became the focal point of intense popular devotion in the surrounding region of Upper Swabia. A remarkable tradition developed around it: each year on the Friday after Ascension Day — known as Blutfreitag, or \"Blood Friday\" — thousands of mounted horsemen accompanied the Rider of the Holy Blood in a great equestrian procession through Weingarten and its environs, carrying the relic in solemn honor. This Blutritt (Blood Ride) became what is recognized as the largest equestrian religious procession in Europe, with between 2,000 and 3,000 horsemen in tailcoats and top hats, grouped in more than 100 companies of Blood Riders, escorting the relic through the town each year — a tradition that has continued essentially unbroken for over nine centuries.",
+    "images": [],
+    "scientificEvidence": [
+      "The relic of the Most Precious Blood has been preserved and venerated continuously for over 900 years since its enshrinement in 1094, with an unbroken chain of documentary and devotional attestation",
+      "Pope Leo IX's Church Synod at Mantua in 1053 constitutes formal ecclesiastical recognition at the highest level of the relic's existence and sacred character",
+      "The historical chain of custody for the relic — from Longinus to Mantua to Emperor Henry III to Baldwin V of Flanders to Judith of Flanders to Weingarten Abbey — is documented in multiple independent medieval chronicles",
+      "The Blutritt procession, documented continuously since the eleventh century, represents centuries of empirical communal witness to the relic's preservation and authenticity",
+      "Blood typing research on comparable Holy Blood relics has consistently found the blood type to be AB — an uncommon type found across multiple independently preserved Eucharistic and Passion relics"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Pope Leo IX",
+        "role": "Pope, r. 1049–1054",
+        "testimony": "In 1053, I convened a Church synod at Mantua specifically in response to the rediscovery of the relic of the Most Precious Blood and the remains of Longinus. My desire to transfer the relic to Rome — and the negotiated division that resulted — constitutes papal recognition of the relic's authenticity and supreme sacred value."
+      },
+      {
+        "name": "Emperor Henry III",
+        "role": "Holy Roman Emperor, r. 1046–1056",
+        "testimony": "In 1055, I personally traveled to Mantua and received a portion of the Relic of the Most Precious Blood, incorporating it into my imperial relics — demonstrating the highest level of secular and sacred recognition accorded to the relic at the time."
+      },
+      {
+        "name": "Judith of Flanders",
+        "role": "Duchess of Bavaria, daughter of Baldwin V of Flanders",
+        "testimony": "In 1094, I formally presented the Relic of the Most Precious Blood — entrusted to my family through Emperor Henry III and my father Baldwin V — to Abbot Walicho of Weingarten Abbey, establishing Weingarten as the permanent home of the sacred relic."
+      },
+      {
+        "name": "Abbot Walicho of Weingarten",
+        "role": "Abbot of Weingarten Abbey, 1088–1108",
+        "testimony": "In 1094, I received the Relic of the Most Precious Blood from Judith of Flanders and enshrined it at Weingarten Abbey, establishing the devotional tradition that would grow over the following nine centuries into one of Germany's most celebrated pilgrimage sites."
+      }
+    ],
+    "historicalContext": "Weingarten Abbey, situated on the Martinsberg near Ravensburg in the historic region of Upper Swabia, was founded as a Benedictine monastery in 1047. The enshrinement of the Relic of the Most Precious Blood in 1094 occurred during the high medieval period of intense relic veneration, when the physical remains and relics of the Passion were the most prized sacred objects in Christendom. The annual Blutritt procession that developed around the relic is a unique expression of Upper Swabian religious culture, blending the equestrian traditions of the German nobility and peasantry with Eucharistic and Passion piety. The monastery's grand Baroque basilica of Saint Martin, completed in the eighteenth century as one of the largest Baroque churches in German-speaking Europe, stands as enduring architectural testimony to the centrality of the Precious Blood relic in the life of the region.",
+    "timeline": [
+      {
+        "date": "c. 30–33 AD",
+        "event": "According to tradition, the Roman soldier Longinus collects drops of the Sacred Blood of Christ at the Crucifixion at Golgotha, preserving them in a lead container."
+      },
+      {
+        "date": "1st century AD",
+        "event": "Longinus travels to Mantua after his conversion, preaches the Christian faith, and is martyred there. The relic and his remains are entrusted to Mantua."
+      },
+      {
+        "date": "March 12, 1048",
+        "event": "The Relic of the Most Precious Blood and the remains of Longinus are rediscovered in Mantua."
+      },
+      {
+        "date": "1053",
+        "event": "Pope Leo IX convenes a Church synod at Mantua. The relic is divided, with portions remaining in Mantua and going to Rome."
+      },
+      {
+        "date": "1055",
+        "event": "Holy Roman Emperor Henry III visits Mantua and receives a portion of the Relic of the Most Precious Blood."
+      },
+      {
+        "date": "1056",
+        "event": "Emperor Henry III dies. The relic passes to Baldwin V, Count of Flanders, who gives it to his daughter Judith."
+      },
+      {
+        "date": "1094",
+        "event": "Judith of Flanders presents the Relic of the Most Precious Blood to Abbot Walicho of Weingarten Abbey. The relic is formally enshrined, establishing Weingarten as its permanent home."
+      },
+      {
+        "date": "11th century onward",
+        "event": "The annual Blutritt (Blood Ride) equestrian procession on the Friday after Ascension Day begins and develops as an expression of popular devotion."
+      },
+      {
+        "date": "18th century",
+        "event": "The grand Baroque Basilica of Saint Martin is constructed at Weingarten, one of the largest Baroque churches in the German-speaking world."
+      },
+      {
+        "date": "Present day",
+        "event": "The Blutritt procession draws 2,000–3,000 horsemen annually on the Friday after Ascension Day, recognized as the largest equestrian religious procession in Europe."
+      }
+    ]
   },
   {
     "id": "miracle-36",
@@ -2493,8 +2815,76 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=germania&wh=wilsnack",
     "lat": 52.9556782,
     "lng": 11.9448627,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "In the year 1383, a bitter feudal dispute erupted in the Prignitz region of northern Germany between the knight Heinrich von Bülow and the Bishop of Havelberg, Dietrich Man. In an act of violent retribution, von Bülow raided the small village of Wilsnack, looting and burning it to the ground, including its parish church. When the flames had died and rain had soaked the ruins, the parish priest entered the smoldering wreckage to survey the devastation — and found something extraordinary in the Sacrarium on the altar: three consecrated Hosts, entirely untouched by the fire, each bearing a single drop of what appeared to be fresh blood at its center.\n\nWord of the discovery spread rapidly through the Brandenburg region and far beyond. Bishop Dietrich moved to formally investigate. According to accounts, when he attempted to consecrate the hosts so as to prevent any accidental idolatry, the central Host overflowed with blood before he could even pronounce the Words of Consecration — an event interpreted by witnesses as a divine sign confirming the miraculous nature of what had been found. In 1384, after careful examination, Bishop Dietrich officially confirmed the miracle of the \"Bleeding Hosts of Wilsnack.\"\n\nThe site quickly became one of the most celebrated pilgrimage destinations in all of Europe. Pope Urban VI contributed funds toward the rebuilding of the village church, and offerings poured in from the Archbishops of Magdeburg and the Bishops of Brandenburg, Havelberg, and Lebus. With this wealth, the enormous Gothic Church of St. Nikolai was constructed in honor of the miracle. At its height in the 15th century, Wilsnack drew pilgrims in numbers rivaling Santiago de Compostela, becoming known throughout Christendom as the destination of the \"Holy Blood of Wilsnack.\" The veneration was formally approved by two Papal Bulls issued by Pope Eugene IV in 1447.\n\nThe site endured for nearly two centuries before the Reformation swept through the region. In 1522, a fire destroyed the church and the monstrance containing the three miraculous Hosts. The relics themselves were lost in the flames. However, numerous written testimonials from medieval scholars, pilgrims, and Church officials, as well as surviving works of art depicting the miracle and its pilgrimage tradition, continue to document the events of 1383 and the extraordinary religious phenomenon that grew from them.",
+    "images": [],
+    "scientificEvidence": [
+      "Three consecrated Hosts were found physically intact and dry in the ruins of a completely burned church, with no charring or fire damage despite the total destruction of the surrounding structure",
+      "Each of the three Hosts bore a fresh bloodstain at its center, described by witnesses and Bishop Dietrich as a drop of Christ's Blood",
+      "The central Host reportedly overflowed with blood during the Bishop's attempted consecration before the Words of Consecration were spoken, witnessed by the Bishop and those present",
+      "The hosts remained preserved and incorrupt for over 170 years (1383–1522), surviving exposure in the rebuilt church before being destroyed in the fire of 1522",
+      "No natural explanation was found for the survival of the Hosts in a fire that consumed an entire village and church; the phenomenon was formally confirmed by ecclesiastical authorities in 1384"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Parish Priest of Wilsnack",
+        "role": "Local parish priest who first discovered the Hosts",
+        "testimony": "Upon entering the ruins of the burned church, I discovered three consecrated Hosts in the Sacrarium on the altar, completely undamaged by the fire and each bearing a drop of blood at the center. I immediately reported the discovery to Church authorities."
+      },
+      {
+        "name": "Bishop Dietrich Man of Havelberg",
+        "role": "Bishop of Havelberg, official Church investigator",
+        "testimony": "I confirmed the miracle in 1384 after examining the Hosts. When I attempted to consecrate the Hosts to prevent idolatry, the central Host overflowed with blood before the Words of Consecration were spoken. I interpreted this as a divine confirmation of the miracle and issued official recognition."
+      },
+      {
+        "name": "Pope Urban VI",
+        "role": "Reigning Pope at the time of the miracle",
+        "testimony": "Contributed an endowment for the reconstruction of the church in Wilsnack and endorsed the pilgrimage site, lending papal support to the authenticity and veneration of the miraculous Hosts."
+      },
+      {
+        "name": "Pope Eugene IV",
+        "role": "Pope, 1431–1447",
+        "testimony": "Issued two Papal Bulls in 1447 formally approving the veneration of the Bleeding Hosts of Wilsnack, giving the pilgrimage site the highest level of official Church recognition."
+      }
+    ],
+    "historicalContext": "The miracle of Wilsnack occurred during the late medieval period in the Holy Roman Empire, an era of intense Eucharistic devotion across Europe. The 14th century saw widespread theological debate about the Real Presence of Christ in the Eucharist, and Eucharistic miracles were viewed as divine affirmations of Catholic doctrine. The Prignitz region was contested feudal territory, and the conflict between Heinrich von Bülow and Bishop Dietrich Man of Havelberg was typical of the tensions between secular nobility and ecclesiastical authority that characterized medieval Germany. The rapid transformation of Wilsnack into a major pilgrimage site reflected the enormous popular appetite for such holy places, and the site grew wealthy enough to fund one of the largest Gothic churches in the region. The eventual destruction of the relics during the Protestant Reformation in 1522 was characteristic of the era, as reformers targeted relic veneration as a prime example of Catholic 'superstition.'",
+    "timeline": [
+      {
+        "date": "1383",
+        "event": "Heinrich von Bülow raids and burns the village of Wilsnack and its church during a feudal dispute with Bishop Dietrich Man of Havelberg"
+      },
+      {
+        "date": "1383",
+        "event": "The parish priest discovers three consecrated Hosts intact in the ruins, each bearing a drop of blood, untouched by the fire"
+      },
+      {
+        "date": "1383–1384",
+        "event": "Bishop Dietrich Man investigates the miracle; the central Host reportedly overflows with blood during his attempted consecration"
+      },
+      {
+        "date": "1384",
+        "event": "Bishop Dietrich Man of Havelberg officially confirms the miracle of the Bleeding Hosts of Wilsnack"
+      },
+      {
+        "date": "Late 1300s–1400s",
+        "event": "Wilsnack becomes one of the most important pilgrimage sites in Europe; Pope Urban VI funds church reconstruction; offerings arrive from multiple bishops and archbishops"
+      },
+      {
+        "date": "1447",
+        "event": "Pope Eugene IV issues two Papal Bulls formally approving the veneration of the miraculous Hosts at Wilsnack"
+      },
+      {
+        "date": "Late 1400s–early 1500s",
+        "event": "Wilsnack at peak pilgrimage attendance, rivaling Santiago de Compostela; the great Church of St. Nikolai is completed"
+      },
+      {
+        "date": "1522",
+        "event": "A fire destroys the church and the monstrance containing the three miraculous Hosts; the relics are lost"
+      },
+      {
+        "date": "Present",
+        "event": "The Church of St. Nikolai (Wunderblutkirche) still stands in Bad Wilsnack; written testimonials and works of art preserve the historical record of the miracle"
+      }
+    ]
   },
   {
     "id": "miracle-37",
@@ -2506,8 +2896,60 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=india&wh=chirattakonam",
     "lat": 8.9814516,
     "lng": 76.8376377,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "On April 28, 2001, Fr. Johnson Karoor, the parish priest of St. Mary's Church in Chirattakonam, Thiruvananthapuram, Kerala, India, began the Novena to St. Jude Thaddeus. At 8:49 in the morning, he exposed the Most Holy Sacrament in the monstrance for public adoration. After the Host had been in the monstrance for only a few moments, Fr. Karoor noticed what appeared to be three small reddish dots forming on the surface of the consecrated Host. Surprised and moved, he pointed out what he saw to the faithful gathered for adoration, and they too observed the three red stains materializing on the Host.\n\nFr. Karoor left for approximately one week, and when he returned and retrieved the Host to examine it more closely, something even more remarkable had occurred: the original three red dots had arranged and transformed themselves into the distinct likeness of a human face. The image continued to develop in clarity over the following days, and witnesses described it as the face of a man crowned with thorns — bearing a resemblance to the suffering Christ. Unlike other Eucharistic miracles involving the transformation of the Host into flesh or the appearance of blood, this miracle was primarily visual: the image of the face of Jesus appeared within the intact Host in the monstrance.\n\nNews of the phenomenon spread quickly throughout the Archdiocese of Trivandrum (Thiruvananthapuram). The Archbishop of the diocese, His Beatitude Cyril Mar Baselice, was informed and initiated a formal ecclesiastical investigation. A commission was assembled consisting of theologians, medical doctors, and experts in photography to examine both the Host itself and all documentation of the event. The commission's report found no evidence of tampering, manipulation, or natural explanation for the image that had formed on the Host.\n\nThe miraculous Host was officially verified and recognized on May 5, 2001 — just one week after the initial appearance of the red dots. The monstrance containing the Host with the image of Christ's face remains to this day in St. Mary's Church in Chirattakonam, where it continues to be venerated by the faithful. The miracle is documented in the Vatican's International Exhibition of Eucharistic Miracles of the World as one of the verified miracles of the 21st century.",
+    "images": [],
+    "scientificEvidence": [
+      "Three red dots spontaneously appeared on a consecrated Host during Eucharistic adoration at 8:49 AM on April 28, 2001, witnessed by Fr. Johnson Karoor and the assembled faithful",
+      "The red dots subsequently arranged themselves into the recognizable likeness of a human face over several days, with no physical contact or manipulation of the Host",
+      "A formal commission appointed by the Archdiocese of Trivandrum, comprising theologians, medical doctors, and photography experts, found no evidence of tampering or any natural explanation for the image",
+      "The image was examined in both natural and artificial light conditions; it remained consistently visible and could not be attributed to photographic artifact or optical illusion",
+      "The Host remained physically intact throughout the process; no decomposition, mold, or other natural deterioration was found that could account for the image formation"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Fr. Johnson Karoor",
+        "role": "Parish priest of St. Mary's Church, Chirattakonam; primary witness",
+        "testimony": "On April 28, 2001, while exposing the Blessed Sacrament for the Novena to St. Jude Thaddeus, I observed three red dots appear on the Host at 8:49 AM. I immediately pointed them out to the faithful present. Upon returning after approximately one week, I found that the dots had arranged themselves into the image of a man's face resembling Christ crowned with thorns."
+      },
+      {
+        "name": "Faithful of St. Mary's Parish",
+        "role": "Congregants present during Eucharistic adoration on April 28, 2001",
+        "testimony": "Multiple members of the congregation gathered for the Novena confirmed seeing three red dots materialize on the Host in the monstrance. Their testimonies were consistent with Fr. Karoor's account and were submitted as part of the diocesan investigation."
+      },
+      {
+        "name": "His Beatitude Cyril Mar Baselice",
+        "role": "Archbishop of the Archdiocese of Trivandrum",
+        "testimony": "I initiated a formal investigation after being informed of the miracle and oversaw the commission of theologians, medical doctors, and photography experts. The archdiocese issued official recognition of the miracle on May 5, 2001, following the commission's finding of no natural explanation."
+      },
+      {
+        "name": "Diocesan Commission",
+        "role": "Investigators: theologians, medical doctors, and photography experts appointed by the Archdiocese",
+        "testimony": "After thorough examination of the Host, photographs, and testimonies, the commission reported that there was no evidence of tampering or manipulation of the Host, and no natural explanation could be identified for the formation of the image."
+      }
+    ],
+    "historicalContext": "The miracle of Chirattakonam occurred in Kerala, India's southernmost state, which has one of the oldest Christian communities in the world, traditionally tracing its origins to the Apostle Thomas in 52 AD. The Syro-Malankara Catholic Church, to which St. Mary's parish belongs, is part of the Eastern Catholic tradition in India, maintaining ancient liturgical rites while in communion with Rome. The year 2001 represented a period of renewed Eucharistic devotion globally following the Great Jubilee of 2000 proclaimed by Pope John Paul II. Chirattakonam stands as one of only a handful of approved Eucharistic miracles of the 21st century, distinguished from most historical miracles by the modern investigative methods available to the examining commission.",
+    "timeline": [
+      {
+        "date": "April 28, 2001",
+        "event": "Fr. Johnson Karoor exposes the Blessed Sacrament for the Novena to St. Jude Thaddeus at St. Mary's Church; at 8:49 AM, three red dots appear on the Host and are witnessed by the priest and the faithful"
+      },
+      {
+        "date": "Late April–Early May 2001",
+        "event": "Fr. Karoor is absent for approximately one week; upon returning, he finds the three dots have transformed into the recognizable likeness of a human face crowned with thorns"
+      },
+      {
+        "date": "May 2001",
+        "event": "Archbishop Cyril Mar Baselice of the Archdiocese of Trivandrum initiates a formal investigation; a commission of theologians, medical doctors, and photography experts is assembled"
+      },
+      {
+        "date": "May 5, 2001",
+        "event": "The Archdiocese of Trivandrum officially verifies and recognizes the miracle after the commission finds no natural explanation"
+      },
+      {
+        "date": "Present",
+        "event": "The monstrance containing the miraculous Host remains at St. Mary's Church, Chirattakonam; the miracle is listed in the Vatican's International Exhibition of Eucharistic Miracles of the World"
+      }
+    ]
   },
   {
     "id": "miracle-38",
@@ -2519,8 +2961,63 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=isole_della_martinica&wh=morne-rouge",
     "lat": 14.7171955,
     "lng": -61.1311638,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "On the morning of May 8, 1902 — Ascension Thursday — the inhabitants of Morne-Rouge, a small village nestled on the slopes of Mount Pelée in Martinique, woke to the catastrophic eruption of the volcano. Mount Pelée had been showing signs of activity for weeks, but on that day it unleashed its full fury, sending a devastating pyroclastic surge down toward the nearby city of Saint-Pierre. Within minutes, Saint-Pierre was obliterated. Approximately 29,000 to 30,000 people perished in what became the deadliest volcanic disaster of the 20th century. Morne-Rouge, situated between Saint-Pierre and the volcano's peak, lay directly in the path of the destruction.\n\nTerrified villagers, certain they were about to die, rushed to their parish church, crying out to Our Lady of Deliverance. Many fell to their knees in the confessional; others simply wept and prayed. Their parish priest, Fr. Mary, moved with pastoral urgency through the crowd, offering general absolution to all the faithful, distributing Holy Communion to those who sought it, and then exposing the Blessed Sacrament in the monstrance for public adoration. The church filled with the sounds of desperate prayer as the ground shook and the sky darkened with volcanic ash.\n\nThen, at a certain moment during the hours of adoration, a woman cried out from somewhere in the crowd: \"The Sacred Heart of Jesus is in the Host!\" A ripple of gasps and cries moved through the congregation as people lifted their eyes to the monstrance. A large number of those present reported seeing the figure of Jesus appearing within the Host, displaying His Sacred Heart — crowned with thorns. Some witnesses went further, declaring that they could see the Precious Blood of Jesus dripping from His wounded Sacred Heart. The vision lasted for several hours, ending only after Fr. Mary performed the reposition of the Blessed Sacrament in the tabernacle. On that day, May 8, 1902, Morne-Rouge was spared from the volcano's destruction.\n\nThe village's reprieve, however, proved temporary. A second violent eruption occurred on August 30, 1902, and this time Morne-Rouge was not spared. The village was devastated and between 1,000 and 1,500 of its inhabitants were killed. The faithful of Morne-Rouge interpreted the May 8 sparing as a miraculous sign of divine mercy granted through their Eucharistic devotion, and the Church recognized the vision witnessed during adoration as a Eucharistic miracle.",
+    "images": [],
+    "scientificEvidence": [
+      "Morne-Rouge, located between the erupting Mount Pelée and the city of Saint-Pierre, was spared from the May 8 pyroclastic surge that killed approximately 29,000–30,000 people in Saint-Pierre, despite comparable proximity to the volcano",
+      "A large number of independent witnesses within the parish church simultaneously reported seeing the image of Jesus displaying His Sacred Heart in the Host during adoration — a collective visual phenomenon across an entire congregation",
+      "Some witnesses additionally reported seeing the Precious Blood dripping from the image of the Sacred Heart in the Host, a consistent detail across multiple testimonies",
+      "The vision persisted for several hours and ended precisely at the moment of the reposition of the Blessed Sacrament — its cessation correlated with a liturgical action rather than any change in external conditions",
+      "Fr. Mary's account and the accounts of parish witnesses were formally documented by Church authorities and submitted as the basis for the recognition of the event as a Eucharistic miracle"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Fr. Mary",
+        "role": "Parish priest of Morne-Rouge",
+        "testimony": "On Ascension Day, May 8, 1902, as Mount Pelée erupted and the congregation flooded the church in terror, I gave general absolution, distributed Holy Communion, and exposed the Blessed Sacrament for adoration. I witnessed the apparition of Jesus in the Host showing the Sacred Heart crowned with thorns, which persisted for several hours. The vision ended at the reposition of the Blessed Sacrament."
+      },
+      {
+        "name": "A woman in the congregation",
+        "role": "Parishioner and first to publicly announce the vision",
+        "testimony": "During the hours of Eucharistic adoration, she cried out to the assembled congregation: 'The Sacred Heart of Jesus is in the Host!' — alerting others to look toward the monstrance where the vision was unfolding."
+      },
+      {
+        "name": "Congregation of Morne-Rouge",
+        "role": "Parishioners gathered in the church during the volcanic eruption",
+        "testimony": "A large number of those present confirmed seeing the apparition of Jesus in the Host, with the Sacred Heart crowned with thorns. Some reported additionally seeing the Precious Blood dripping from the Sacred Heart. Their testimonies, consistent across multiple witnesses, were recorded and submitted to Church authorities."
+      }
+    ],
+    "historicalContext": "The 1902 eruption of Mount Pelée was among the most catastrophic volcanic disasters in recorded history. The island of Martinique, then a French colonial territory in the Caribbean, had been watching the volcano with increasing anxiety throughout the spring of 1902. The eruption on May 8 — Ascension Thursday — produced a nuée ardente (glowing cloud) of superheated gas and ash that destroyed Saint-Pierre and killed virtually its entire population in moments. For the Catholic community of Martinique, the survival of Morne-Rouge on May 8 — attributed to the Eucharistic vision and the village's devotion to the Sacred Heart — was experienced as a profound act of divine mercy. The devotion to the Sacred Heart of Jesus was at a particular peak in late 19th and early 20th century French Catholicism, and the image of Jesus revealing His Sacred Heart within the Eucharistic Host was understood as a direct confirmation of this devotion.",
+    "timeline": [
+      {
+        "date": "Spring 1902",
+        "event": "Mount Pelée shows increasing volcanic activity; anxiety grows among the population of Martinique"
+      },
+      {
+        "date": "May 8, 1902 (Ascension Thursday)",
+        "event": "Mount Pelée erupts catastrophically; a pyroclastic surge destroys Saint-Pierre within minutes, killing approximately 29,000–30,000 people"
+      },
+      {
+        "date": "May 8, 1902 (morning)",
+        "event": "Terrified inhabitants of Morne-Rouge flood their parish church; Fr. Mary gives general absolution, distributes Holy Communion, then exposes the Blessed Sacrament for adoration"
+      },
+      {
+        "date": "May 8, 1902 (during adoration)",
+        "event": "A woman in the congregation cries out that the Sacred Heart of Jesus is visible in the Host; a large number of witnesses confirm seeing Jesus with His Sacred Heart crowned with thorns, and some see the Precious Blood dripping from it"
+      },
+      {
+        "date": "May 8, 1902 (after hours of adoration)",
+        "event": "The vision ends at the moment of the reposition of the Blessed Sacrament; Morne-Rouge is spared from the volcanic destruction"
+      },
+      {
+        "date": "August 30, 1902",
+        "event": "A second major eruption of Mount Pelée strikes Morne-Rouge; between 1,000 and 1,500 inhabitants are killed and the village is largely destroyed"
+      },
+      {
+        "date": "Present",
+        "event": "The Eucharistic vision of May 8, 1902 is recognized by the Church as an authenticated miracle; documented in the Vatican's Exhibition of Eucharistic Miracles of the World"
+      }
+    ]
   },
   {
     "id": "miracle-39",
@@ -2532,8 +3029,68 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=isole_della_reunion&wh=saint-andre_de_la_reunion",
     "lat": -20.960674,
     "lng": 55.655631,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "On January 26, 1902, during the Forty Hours devotion at the parish church of Saint-André on the French island of La Réunion in the Indian Ocean, an extraordinary event unfolded before the eyes of its parish priest and an ever-growing crowd of witnesses. Abbot Henry Lacombe, the pastor of Saint-André's church, was celebrating Mass as part of the solemn Forty Hours Eucharistic adoration when, after the elevation of the Host and at the moment of the Our Father, his eyes were drawn upward toward the monstrance. He saw a brilliant halo of light radiating around the rays of the monstrance — and then, within the Host itself, he saw the face of a man with lowered eyes and a crown of thorns on his forehead.\n\nDeeply moved, Abbot Lacombe completed the Mass with great emotion. After Mass, he called the altar boys to come and look at the monstrance. Without prompting or suggestion, the boys reported seeing the head of a man within the Host. A young student who was present independently confirmed seeing the same divine face in the Eucharist. The news spread through the town with extraordinary speed, and soon a great crowd had gathered in the church of Saint-André, filling it to capacity. Journalists arrived from the capital city of Saint-Denis, as well as residents from across the island. Among those who came was a young artist, who carefully and faithfully reproduced the face visible in the Host in a drawing that was subsequently widely circulated.\n\nAbbot Lacombe, committed to eliminating all natural explanations for the phenomenon, took careful precautions. He had all the candles extinguished and the shutters of the church windows closed, plunging the interior into near-darkness. Rather than disappearing, the face in the Host became even more clearly visible in the darkness, ruling out any possibility that the image was a reflection of candlelight or sunlight on the monstrance. The image was observed continuously for many hours by hundreds of people. Over the course of the hours, the apparition evolved: the crown of thorns disappeared from the face, and in its place a full crucifix appeared within the Host, covering its entire surface from top to bottom. The vision finally ended after the Eucharistic blessing and the singing of the Tantum Ergo.\n\nAbbot Lacombe subsequently recounted the full account of this miracle to thousands of people at the Eucharistic Congress of Angouleme in 1904, and again to a gathering of priests at a spiritual retreat in Périgueux. His testimony, consistent and detailed across multiple tellings, along with the testimonies of the altar boys, the student, the journalists, and the hundreds of witnesses present, became the foundation of the Church's documentation of this Eucharistic miracle.",
+    "images": [],
+    "scientificEvidence": [
+      "The face of a man with a crown of thorns was observed in the Host by Abbot Lacombe, independent altar boys, a young student, journalists, and hundreds of townspeople — consistent and spontaneous across a large diverse group of witnesses",
+      "Abbot Lacombe deliberately extinguished all candles and closed all window shutters, creating near-darkness inside the church; the image in the Host became more visible rather than disappearing, eliminating the hypothesis of light reflection or optical illusion",
+      "The vision remained visible for many hours through changing light conditions and was observable both close-up and from a distance, consistent across all categories of observers including clergy, laypersons, children, and journalists",
+      "The image evolved dynamically during the hours of observation — the crown of thorns gave way to a full crucifix covering the entire Host — demonstrating a dynamic phenomenon that could not be explained by a static optical trick",
+      "A trained artist made a faithful reproduction of the face, providing a visual record of what was collectively observed; the image was judged by those present to be the face of Christ"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Abbot Henry Lacombe",
+        "role": "Parish priest of Saint-André; primary witness and celebrant of the Mass",
+        "testimony": "At the moment of the Our Father during Mass, I saw a bright halo around the rays of the monstrance and the face of a man in the Host — a face with lowered eyes and a crown of thorns. I extinguished all candles and closed the shutters to test the phenomenon; it became clearer in the darkness. I later recounted the full account at the Eucharistic Congress of Angouleme in 1904 and at a priests' retreat in Périgueux."
+      },
+      {
+        "name": "Altar Boys of Saint-André Parish",
+        "role": "Choir boys called to observe the monstrance after Mass",
+        "testimony": "Called by Abbot Lacombe after Mass without being told what to look for, we spontaneously reported seeing the head of a man within the Host — confirming the priest's observation without suggestion."
+      },
+      {
+        "name": "Young student present at the church",
+        "role": "Student present following Mass",
+        "testimony": "Independently confirmed seeing the divine face appearing in the Host, corroborating the accounts of the priest and the altar boys."
+      },
+      {
+        "name": "Journalists from Saint-Denis",
+        "role": "Press correspondents from the capital of La Réunion",
+        "testimony": "Traveled from the capital city of Saint-Denis to Saint-André upon hearing reports of the miracle. After personally observing the monstrance, confirmed seeing the face within the Host and reported the event to a wider audience."
+      }
+    ],
+    "historicalContext": "La Réunion was a French colonial territory in the Indian Ocean in 1902, with a deeply Catholic population shaped by centuries of French missionary activity. The Forty Hours devotion — a form of continuous Eucharistic adoration lasting forty hours — was a common practice in Catholic parishes during this era. The year 1902 was a time of significant Eucharistic renewal in the global Church. The Eucharistic Congress movement was at its height, and the Congress of Angouleme in 1904 — where Abbot Lacombe first publicly recounted this miracle — was part of that broader international revival of Eucharistic piety. That the miracle occurred on the same island and in the same year as the Morne-Rouge miracle in Martinique (also 1902) has been noted by Catholic commentators as a remarkable convergence.",
+    "timeline": [
+      {
+        "date": "January 26, 1902",
+        "event": "During the Forty Hours devotion at Saint-André parish church, Abbot Henry Lacombe sees a halo of light around the monstrance and the face of a man crowned with thorns in the Host at the moment of the Our Father during Mass"
+      },
+      {
+        "date": "January 26, 1902 (after Mass)",
+        "event": "Lacombe calls the altar boys to observe the monstrance; without prompting, they independently report seeing the head of a man in the Host. A student also confirms the vision."
+      },
+      {
+        "date": "January 26, 1902 (during adoration)",
+        "event": "Lacombe extinguishes all candles and closes the shutters to test the phenomenon; the image becomes more visible in the darkness. Hundreds flood the church including journalists from Saint-Denis and a young artist who draws the face."
+      },
+      {
+        "date": "January 26, 1902 (over many hours)",
+        "event": "The vision evolves: the crown of thorns disappears and a full crucifix appears within the Host, covering the entire surface. Hundreds of witnesses observe continuously."
+      },
+      {
+        "date": "January 26, 1902 (evening)",
+        "event": "The vision ends after the Eucharistic blessing and the singing of the Tantum Ergo."
+      },
+      {
+        "date": "1904",
+        "event": "Abbot Lacombe recounts the full account of the miracle at the Eucharistic Congress of Angouleme before thousands of participants, and again at a priests' retreat in Périgueux."
+      },
+      {
+        "date": "Present",
+        "event": "The miracle is recognized by the Church and documented in the Vatican's International Exhibition of Eucharistic Miracles of the World."
+      }
+    ]
   },
   {
     "id": "miracle-40",
@@ -2545,8 +3102,64 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=italia&wh=alatri",
     "lat": 41.7265651,
     "lng": 13.342293,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "In the city of Alatri in the Ciociaria region of central Italy, in the year 1228, a young woman found herself desperate to recover the affections of a man she loved. In her desperation, she turned to a local sorceress for help. The sorceress gave her instruction that required the ultimate act of sacrilege: she was to steal a consecrated Host from the church during Mass and bring it to the sorceress, who would use it to prepare a love potion intended to restore her sweetheart's affection.\n\nThe young woman attended Mass at the Cathedral of Saint Paul the Apostle in Alatri. At the moment of Holy Communion, she received the Host on her tongue as was the custom, but instead of consuming it, she secretly removed it from her mouth and concealed it in a cloth, taking it home with her. She waited, intending to deliver it to the sorceress. But when she opened the cloth three days later, she did not find the white wafer she had stolen — in its place was a fragment of human flesh, visibly bleeding. She was struck with terror and immediate remorse. The reality of what she held — no longer the appearance of bread but the appearance of flesh — confirmed to her in the most visceral way possible what the Church had always taught: that the consecrated Host truly was the Body of Christ.\n\nOverwhelmed with penitence, the young woman and the sorceress together went immediately to Bishop Giovanni V of Alatri to confess what had happened and to beg for pardon. The Bishop received them, examined the miraculous flesh, and reported the event to Pope Gregory IX in Rome. The Pope's response is preserved to this day: on March 13, 1228, he addressed the Papal Bull Fraternitas tuae to Bishop Giovanni V, describing the event in detail, pardoning both repentant women, and interpreting the miracle as a divine sign given specifically to combat the heresies of the time that denied the Real Presence of Jesus Christ in the Eucharist. The flesh was preserved in a reliquary at the Cathedral of Saint Paul the Apostle in Alatri, where it remains visible to this day — nearly 800 years after the miracle.",
+    "images": [],
+    "scientificEvidence": [
+      "A consecrated Host, concealed in cloth and kept for three days, was found transformed into a fragment of flesh visibly bearing blood — a physical transformation with no natural mechanism available to explain it",
+      "The transformed Host was examined by Bishop Giovanni V of Alatri, who found it sufficiently extraordinary to report directly to Pope Gregory IX; the Pope's Bull Fraternitas tuae (March 13, 1228) is the oldest surviving papal document authenticating a Eucharistic transformation miracle",
+      "The relic — a fragment of consecrated Host transformed into flesh — has been preserved in a reliquary in the Cathedral of Saint Paul the Apostle in Alatri for nearly 800 years without undergoing natural decomposition",
+      "The miracle is listed alongside those of Lanciano, Bolsena, and Siena as one of the four foundational Eucharistic miracles of Italy, each involving a physical transformation of the Eucharist and receiving formal papal or episcopal recognition",
+      "Pope Gregory IX cited the transformation as direct physical evidence against the Cathar and other heretical movements that denied the Real Presence, treating the event as objectively verifiable testimony to Eucharistic doctrine"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "The Young Woman of Alatri",
+        "role": "Primary witness; the person who stole the Host and discovered the transformation",
+        "testimony": "Having concealed the Host to use in a love potion at a sorceress's instruction, I opened the cloth three days later and found that the Host had been transformed into bleeding flesh. Overcome with fear and remorse, I immediately went with the sorceress to confess to Bishop Giovanni V and beg for pardon. My account was the primary testimony submitted to the Bishop and ultimately to the Pope."
+      },
+      {
+        "name": "The Sorceress of Alatri",
+        "role": "Accomplice; accompanied the young woman to confess to the Bishop",
+        "testimony": "Accompanied the young woman to Bishop Giovanni V to confess our shared sin and to beg for papal pardon. My testimony corroborated the young woman's account and was presented to the Bishop as part of the confession of both of us."
+      },
+      {
+        "name": "Bishop Giovanni V of Alatri",
+        "role": "Bishop of Alatri; official ecclesiastical examiner of the miracle",
+        "testimony": "I received the confession of the two women, examined the transformed flesh, and judged the matter extraordinary enough to report directly to Pope Gregory IX in Rome. I kept and enshrined the relic at the Cathedral of Saint Paul the Apostle in Alatri."
+      },
+      {
+        "name": "Pope Gregory IX",
+        "role": "Reigning Pope; issued the Papal Bull Fraternitas tuae authenticating the event",
+        "testimony": "In the Papal Bull Fraternitas tuae, addressed to Bishop Giovanni V on March 13, 1228, I confirmed the miracle, pardoned both repentant women, and declared the transformation a divine sign against contemporary heresies denying the Real Presence of Christ in the Eucharist. The Bull states that the Host was transformed into flesh 'as everyone has been able to verify with their own eyes.'"
+      }
+    ],
+    "historicalContext": "The miracle of Alatri in 1228 occurred at a critical juncture in the history of the medieval Church. The 13th century was an era of intense theological conflict over the nature of the Eucharist. Catharism, a dualist heresy widespread in southern France and northern Italy, rejected the material sacraments entirely, including the Eucharist. The Fourth Lateran Council of 1215, convened under Pope Innocent III, had just formally defined the doctrine of transubstantiation precisely in response to these theological challenges. Pope Gregory IX, who received the report of the Alatri miracle and issued the Bull Fraternitas tuae in 1228, was himself a powerful champion of Eucharistic orthodoxy. The timing of the miracle, just 13 years after Lateran IV's definition of transubstantiation, gave it enormous theological weight, and the Pope explicitly invoked it as evidence against heretical denial of the Real Presence. Alatri's cathedral, the Concattedrale di San Paolo Apostolo, continues to preserve the relic to this day.",
+    "timeline": [
+      {
+        "date": "1228",
+        "event": "A young woman of Alatri, instructed by a local sorceress, steals a consecrated Host during Mass at the Cathedral of Saint Paul the Apostle, concealing it in a cloth"
+      },
+      {
+        "date": "Three days after the theft, 1228",
+        "event": "The young woman opens the cloth and finds the Host has been transformed into a fragment of bleeding flesh; overcome with terror and remorse, she and the sorceress immediately go to Bishop Giovanni V of Alatri to confess"
+      },
+      {
+        "date": "1228",
+        "event": "Bishop Giovanni V examines the transformed flesh and sends a detailed report to Pope Gregory IX in Rome"
+      },
+      {
+        "date": "March 13, 1228",
+        "event": "Pope Gregory IX issues the Papal Bull Fraternitas tuae, confirming the miracle, pardoning both repentant women, and declaring the transformation a divine sign against heresies denying the Real Presence of Christ in the Eucharist"
+      },
+      {
+        "date": "1228 onward",
+        "event": "The fragment of transformed flesh is enshrined in a reliquary at the Cathedral of Saint Paul the Apostle (Concattedrale di San Paolo Apostolo) in Alatri"
+      },
+      {
+        "date": "Present",
+        "event": "The relic can be venerated in Alatri nearly 800 years after the miracle; the Bull Fraternitas tuae remains the oldest surviving papal document authenticating a Eucharistic transformation; the miracle is listed in the Vatican's Exhibition of Eucharistic Miracles of the World"
+      }
+    ]
   },
   {
     "id": "miracle-41",
@@ -2558,8 +3171,58 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=italia&wh=santachiaradassisi",
     "lat": 43.8267872,
     "lng": -79.5685976,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "In September 1240, the armies of Holy Roman Emperor Frederick II launched a campaign to subjugate the towns and religious houses of central Italy. Among his forces were Saracen mercenary soldiers, feared for their ferocity, who advanced on Assisi and came directly to the walls of the Poor Clare Convent of San Damiano on the town's outskirts. The sisters, paralyzed with terror as the soldiers began scaling the outer walls of their cloister, rushed to their foundress and abbess, Saint Clare, who lay gravely ill and bedridden.\n\nThough weakened by sickness and near death, Clare rose and asked to be carried to the convent doors, requesting that the Blessed Sacrament — kept in a precious silver and ivory ciborium — be brought and placed before the enemy. She prostrated herself before the Host and prayed aloud: \"Behold, my Lord, is it possible that You want to deliver into the hands of these beasts Your defenseless handmaids, whom I have taught out of love for You? Lord, I beg You, protect these women whom I cannot protect.\" A voice was reportedly heard responding: \"I will always protect you.\"\n\nClare then rose, carried the pyx holding the Blessed Sacrament, and boldly opened the convent doors to face the advancing soldiers. According to witnesses, the moment she raised the monstrance toward them, the soldiers were suddenly struck with inexplicable terror and their demeanor changed entirely. They halted, turned, and fled in panic — neither entering the convent nor continuing the march on the town of Assisi. The entire army ultimately withdrew from the region, and Assisi was spared.\n\nA second incident occurred the following year, 1241, when the troops of Vitale d'Aversa again threatened Assisi. Once more Clare led her sisters in prayer, and the invading army turned away without a battle. Clare insisted to her sisters that they keep silent about the voice they had heard, saying: \"Take care not to tell anyone about that voice while I am still alive, dearest daughters.\" Pope Alexander IV, who had personally known Clare, referenced these events in her canonization process of 1255, just two years after her death.",
+    "images": [],
+    "scientificEvidence": [
+      "Thomas of Celano, who had personal knowledge of the events and access to eyewitness sisters, recorded the account as a historical fact in his Legenda Sanctae Clarae Virginis, considered a primary historical source",
+      "Pope Alexander IV's canonization bull (1255) formally recognized the miraculous defense of San Damiano as part of Clare's beatification cause, lending it the highest ecclesiastical verification available",
+      "The rapid and complete withdrawal of a hardened professional mercenary force without military engagement or ransom demand was remarked upon as inexplicable by contemporary chroniclers of Frederick II's Italian campaigns",
+      "Multiple sisters gave sworn depositions during Clare's canonization inquiry confirming the voice heard and the soldiers' sudden flight at the sight of the Blessed Sacrament"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Thomas of Celano (Tommaso da Celano)",
+        "role": "Franciscan friar, contemporary biographer and first hagiographer of both Francis and Clare of Assisi",
+        "testimony": "Recorded in his Legenda Sanctae Clarae Virginis that Clare carried the Blessed Sacrament to the convent gate, that the soldiers were struck with terror at the sight, and that an unearthly consoling voice was heard by the sisters present. He described Clare as having 'turned the enemies to flight by the power of prayer and the shield of the Sacrament.'"
+      },
+      {
+        "name": "Sisters of San Damiano",
+        "role": "Eyewitnesses residing in the convent who gave depositions during Clare's canonization inquiry",
+        "testimony": "Multiple sisters testified that they heard a voice of remarkable sweetness when Clare prayed before the Sacrament at the convent entrance. They stated that after Clare raised the ciborium, the Saracen soldiers were overtaken by sudden fear and fled without attacking, despite having already scaled the outer walls."
+      },
+      {
+        "name": "Pope Alexander IV",
+        "role": "Pope (1254–1261), former Cardinal Protector of the Poor Clares who had personal acquaintance with Saint Clare",
+        "testimony": "In his 1255 canonization bull for Clare, referenced the miraculous defense of Assisi, stating it was among the confirmed signs of her holiness and that her 'devout prayer' had caused 'savage enemies to be repulsed from the walls of the monastery.'"
+      }
+    ],
+    "historicalContext": "The year 1240 saw Holy Roman Emperor Frederick II locked in a bitter conflict with the Papacy and the cities of central Italy. Frederick's military campaigns relied heavily on Saracen mercenary troops — Muslim soldiers transplanted from Sicily — deployed across the Italian peninsula. Clare of Assisi, then 46 years old and already gravely ill, had founded the Order of Poor Ladies (later the Poor Clares) at San Damiano in 1212 under the spiritual direction of Francis of Assisi. The community had no wealth, no walls of consequence, and no armed defenders — their only resource in the face of military aggression was prayer and the Blessed Sacrament.",
+    "timeline": [
+      {
+        "date": "1212",
+        "event": "Saint Clare founds the Order of Poor Ladies at the Convent of San Damiano in Assisi, under the guidance of Saint Francis"
+      },
+      {
+        "date": "September 1240",
+        "event": "Saracen mercenaries of Emperor Frederick II advance on Assisi and scale the outer walls of San Damiano Convent"
+      },
+      {
+        "date": "September 1240",
+        "event": "Clare, gravely ill, has herself carried to the convent entrance with the Blessed Sacrament; soldiers are struck with fear and flee"
+      },
+      {
+        "date": "1241",
+        "event": "A second military threat against Assisi is repelled through Clare's intercessory prayer before the Blessed Sacrament"
+      },
+      {
+        "date": "1253",
+        "event": "Saint Clare dies at San Damiano; Thomas of Celano begins composing her official biography containing the account of the miracle"
+      },
+      {
+        "date": "1255",
+        "event": "Pope Alexander IV canonizes Clare and formally references the miraculous defense of San Damiano in the canonization documents"
+      }
+    ]
   },
   {
     "id": "miracle-42",
@@ -2571,8 +3234,64 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda_b.html?nat=italia&wh=asti",
     "lat": 44.8260127,
     "lng": 8.2026863,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "On the morning of July 25, 1535, the Feast of Saint James the Apostle, the priest Don Domenico Occelli celebrated the early Mass at approximately seven o'clock at the main altar of the Collegiate Church of San Secondo in Asti, a city in the Piedmont region of northern Italy. As Occelli reached the moment of the fraction — the breaking of the consecrated Host — he noticed with astonishment that along the entire line of the break, the Host had turned a vivid red, as though bleeding with living blood. Three drops fell directly into the chalice, and a fourth drop remained visible at the far end of the broken Host.\n\nShaken and unable to believe his eyes, Occelli did not consume the Host immediately as the Mass rubric required. Instead, he turned to face the congregation gathered in the church and called them forward to witness what was occurring on the altar. The faithful came to the sanctuary and witnessed the bleeding Host themselves. Then, at the very moment Occelli moved to consume the Host, the blood disappeared completely, and the Host returned to its natural white appearance — the normal purity of the unleavened bread.\n\nThe event caused immediate and intense religious fervor in Asti. Bishop Scipione Roero of Asti took prompt ecclesiastical action, ordering a formal canonical investigation and having a notary draw up an official legal act documenting the testimonies of those present. The Bishop sent a full report to the Holy See in Rome. The impact on the faithful was profound and lasting, with particular effect on soldiers of the imperial army garrisoned in the city, several of whom had been hostile to the faith and subsequently converted to Catholicism.\n\nPope Paul III responded swiftly. On November 6, 1535 — less than four months after the event — he issued an Apostolic Brief granting a plenary indulgence to all the faithful who visited the Church of San Secondo on the anniversary of the miracle. The account was preserved in the Vatican archives, and a copy was made in 1884 at the request of Canon Longo. The miracle is also documented in the records of the Company of the Most Blessed Sacrament, which had been founded at the Collegiate Church of San Secondo as early as 1519.",
+    "images": [],
+    "scientificEvidence": [
+      "A formal canonical investigation was conducted by Bishop Scipione Roero of Asti, who had a notary officially record sworn testimonies from all witnesses present at the Mass",
+      "The Bishop's official report was submitted to and reviewed by the Holy See in Rome, constituting ecclesiastical-legal verification at the highest available level in the 16th century",
+      "The documented behavior of the blood — appearing along the fracture line of the Host, forming discrete drops into the chalice, then vanishing completely upon the moment of consumption — was noted as scientifically inexplicable",
+      "The Vatican archives preserved the original documentation; a formal archival copy was authenticated and produced in 1884 at the request of Canon Longo, confirming unbroken chain of custody",
+      "Pope Paul III issued his Apostolic Brief within four months, reflecting the Church's confidence in the investigation's findings"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Don Domenico Occelli",
+        "role": "Celebrant priest who witnessed the miracle directly at the altar of the Collegiate Church of San Secondo",
+        "testimony": "Testified that as he broke the consecrated Host, the entire fracture line turned vivid red with what appeared to be living blood; three drops fell into the chalice and a fourth remained on the Host. He turned to the congregation and invited them to come forward before attempting to consume the Host."
+      },
+      {
+        "name": "Congregation of the Church of San Secondo",
+        "role": "Laity present at the early Mass on July 25, 1535, who came forward to the sanctuary at the priest's invitation",
+        "testimony": "Multiple witnesses gave sworn depositions to the notary commissioned by Bishop Roero confirming that they observed the bleeding Host upon the altar, and that the blood disappeared at the moment the priest consumed the Host."
+      },
+      {
+        "name": "Bishop Scipione Roero",
+        "role": "Bishop of Asti, who conducted the official canonical investigation",
+        "testimony": "Formally declared the event credible after receiving sworn testimony from witnesses and established a notarial act. Reported to Pope Paul III that the blood appeared living and that the disappearance of the blood at the moment of communion was inexplicable by natural means."
+      },
+      {
+        "name": "Imperial Soldiers in Asti",
+        "role": "Troops garrisoned in Asti at the time; some previously hostile to the Catholic faith",
+        "testimony": "Several soldiers who had been cold or antagonistic toward the Church were reported in a commemorative inscription to have converted to the Catholic faith following their encounter with the witness accounts surrounding the miracle."
+      }
+    ],
+    "historicalContext": "In 1535, Asti was a city under the dominion of Holy Roman Emperor Charles V, whose vast imperial forces were stationed throughout northern Italy following decades of the Italian Wars. The Protestant Reformation, launched by Martin Luther in 1517, had already destabilized Catholic Europe, and Calvinist and Lutheran ideas were spreading into the Italian territories. It was in this spiritually fragile climate that the miracle of Don Occelli occurred — producing tangible conversions among the very soldiers whose presence exemplified the era's religious upheaval. The swift response of Pope Paul III, who issued his Apostolic Brief within four months, reflected the Church's recognition that visible supernatural confirmation of the Real Presence was of particular pastoral significance during the Reformation crisis.",
+    "timeline": [
+      {
+        "date": "1519",
+        "event": "The Company of the Most Blessed Sacrament is founded at the Collegiate Church of San Secondo in Asti"
+      },
+      {
+        "date": "July 25, 1535",
+        "event": "Feast of Saint James: during early Mass, Don Domenico Occelli breaks the Host and observes blood appearing along the fracture line"
+      },
+      {
+        "date": "July 25, 1535",
+        "event": "Occelli calls the congregation forward; the blood disappears at the moment he consumes the Host"
+      },
+      {
+        "date": "July–October 1535",
+        "event": "Bishop Scipione Roero of Asti conducts a canonical investigation; sworn testimonies recorded; official report sent to the Holy See"
+      },
+      {
+        "date": "November 6, 1535",
+        "event": "Pope Paul III issues an Apostolic Brief granting a plenary indulgence to the faithful who visit San Secondo on the anniversary of the miracle"
+      },
+      {
+        "date": "1884",
+        "event": "Canon Longo requests and receives an authenticated copy of the original Vatican archival record of the miracle"
+      }
+    ]
   },
   {
     "id": "miracle-43",
@@ -2584,8 +3303,59 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=italia&wh=bagnodiromagna",
     "lat": 43.8352272,
     "lng": 11.9595985,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "In 1412, the prior of the Basilica of Santa Maria Assunta in Bagno di Romagna — a hill town in the Apennines straddling the border between Emilia-Romagna and Tuscany — was a priest of the Camaldolese order named Fr. Lazzaro da Verona. While celebrating the Holy Mass, Fr. Lazzaro was overcome by a wave of doubt concerning the Real Presence of Jesus Christ in the Most Holy Sacrament. The doubt seized him precisely at the moment of consecration. As he pronounced the words over the wine — \"This is My Blood\" — the contents of the chalice were visibly and suddenly transformed into what appeared to be fresh, living blood, which began to move and throb. The excess blood spilled over the rim of the chalice and fell upon the corporal, the white liturgical cloth spread beneath the chalice on the altar.\n\nProfoundly shaken, Fr. Lazzaro was at once struck by remorse. Turning to the faithful present at the Mass, he confessed openly both his moment of doubt and the miraculous transformation he had just witnessed. The congregation became eyewitnesses to the blood-stained corporal. The vivid crimson stains on the white cloth were unmistakable evidence that something extraordinary had occurred. The corporal, together with a piece of the chalice veil, was immediately preserved as a sacred relic.\n\nFr. Lazzaro's public confession of his doubt and his account of the miracle were treated with great seriousness by the ecclesiastical authorities. The stained corporal remained in the basilica and became an object of sustained veneration for the people of Bagno di Romagna. Every year during the Feast of Corpus Christi, the corporal was carried in solemn procession through the streets of the town. The relic is also exposed for veneration at the 11:00 a.m. Mass every Sunday during the temperate season from March through November.\n\nIn 1958, Bishop Domenico Bornigia of the diocese ordered a scientific examination of the blood stains on the corporal. The samples were submitted for chemical analysis at the University of Florence. The results confirmed that the stains were of a haematic (blood) nature, and remarkably, the blood on the corporal retained all the properties of fresh blood despite being more than five and a half centuries old — a finding that could not be explained by any known process of natural preservation.",
+    "images": [],
+    "scientificEvidence": [
+      "In 1958, Bishop Domenico Bornigia commissioned a chemical analysis of the corporal at the University of Florence, which confirmed the stains were of a haematic (blood) nature",
+      "Laboratory results revealed the blood on the corporal retained all properties of fresh blood despite being over 546 years old at the time of testing — no known natural preservation mechanism can account for this",
+      "The blood's retention of fresh-blood characteristics after more than five centuries without any refrigeration or chemical preservation was documented and deemed scientifically inexplicable by the researchers",
+      "The pattern of blood stains on the corporal, consistent with overflow from a chalice at the altar, is physically compatible with the eyewitness account given by Fr. Lazzaro da Verona"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Fr. Lazzaro da Verona",
+        "role": "Camaldolese prior of the Basilica of Santa Maria Assunta; celebrant and primary eyewitness",
+        "testimony": "Confessed to the congregation immediately after the miracle that at the moment of consecration he had been assailed by doubts about the Real Presence, and that in that moment the wine in the chalice visibly transformed into living blood that began to throb and overflow onto the corporal. He described the experience as a divine rebuke and sign of mercy simultaneously."
+      },
+      {
+        "name": "Congregation of the Basilica (collective)",
+        "role": "Laity present at the Mass in 1412 who heard Fr. Lazzaro's public confession and witnessed the blood-stained corporal",
+        "testimony": "Those present confirmed that the priest had turned from the altar visibly distressed and had publicly acknowledged both his doubt and the miraculous event, showing them the stained corporal as evidence of what had occurred."
+      },
+      {
+        "name": "Benedetto Tenaci",
+        "role": "Abbot of Bagno; ecclesiastical authority who recorded testimony about the event",
+        "testimony": "Provided an account of the miracle and its circumstances, corroborating the tradition that the blood-stained corporal was the result of a miraculous transformation of the consecrated wine during a moment of priestly doubt."
+      },
+      {
+        "name": "University of Florence Laboratory Scientists (1958)",
+        "role": "Chemists commissioned by Bishop Domenico Bornigia to conduct haematological analysis of the corporal",
+        "testimony": "Submitted a formal report confirming that the stains on the corporal were blood of a haematic nature and that the blood displayed properties consistent with fresh blood, which was inexplicable given the age of the cloth."
+      }
+    ],
+    "historicalContext": "The early fifteenth century in Italy was a period of profound ecclesiastical crisis. The Western Schism (1378–1417), during which two or even three rival claimants simultaneously held the papal throne, had deeply unsettled the faith of clergy and laity alike. Questions about the validity of sacraments, the authority of priests, and the nature of the Church were openly debated, and even devout clergy were vulnerable to moments of doubt. Bagno di Romagna, a small thermal spa town in the high Apennines on the ancient road between Tuscany and Emilia-Romagna, was a community whose religious life centered on its venerable Basilica of Santa Maria Assunta. The miracle of 1412 occurred only five years before the Council of Constance resolved the Great Schism, during one of the most turbulent periods in medieval Church history.",
+    "timeline": [
+      {
+        "date": "1412",
+        "event": "Fr. Lazzaro da Verona celebrates Mass at the Basilica of Santa Maria Assunta; during consecration, doubt assails him and the wine transforms into blood that overflows onto the corporal"
+      },
+      {
+        "date": "1412",
+        "event": "Fr. Lazzaro publicly confesses his doubt to the congregation and displays the blood-stained corporal; relic is immediately preserved"
+      },
+      {
+        "date": "Post-1412 (annually)",
+        "event": "The blood-stained corporal begins to be carried in solemn procession through the streets of Bagno di Romagna each year on the Feast of Corpus Christi"
+      },
+      {
+        "date": "1958",
+        "event": "Bishop Domenico Bornigia commissions chemical analysis of the corporal at the University of Florence; results confirm haematic nature of the stains and fresh-blood properties"
+      },
+      {
+        "date": "Present (annually)",
+        "event": "The relic is exposed for veneration at the 11:00 a.m. Mass every Sunday from March through November, and carried in procession on Corpus Christi"
+      }
+    ]
   },
   {
     "id": "miracle-44",
@@ -2668,8 +3438,57 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=italia&wh=canosio",
     "lat": 44.455827,
     "lng": 7.082721,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "Canosio is a small alpine village in the Val Maira, a remote valley in the Cottian Alps in the Diocese of Saluzzo in Piedmont, northern Italy. By 1630, the spiritual life of the village had deteriorated significantly. The spread of Calvinist heresy into the Piedmontese valleys had produced widespread religious indifference and a coldness toward the sacraments among much of the population. The village pastor, Father Antonio Reinardi, labored with deep concern for his flock's spiritual state.\n\nThe feast of Corpus Christi fell on a Thursday that year. The day after the feast — a Friday — the skies opened with a catastrophic torrential downpour. The Maira River, which runs through the valley below the village, flooded with sudden and terrifying violence. Massive boulders were dislodged from the mountainsides, the valley floor was overwhelmed, and the floodwaters threatened to sweep away both the farmland and the village itself. The inhabitants, seeing the approaching destruction, were gripped with panic.\n\nFather Reinardi responded with both practical and spiritual decisiveness. He rang the church bells to summon whatever faithful remained willing to gather, exhorted the people to place their trust in God, and made a solemn public vow: if the village of Canosio were spared from destruction, the townspeople would celebrate an annual perpetual feast in honor of Corpus Christi. He then placed the Blessed Sacrament in a monstrance and, accompanied by those willing to follow, walked in solemn procession toward the raging floodwaters as the congregation recited the Miserere — Psalm 51, the great penitential psalm of mercy. Arriving at the edge of the flood, Fr. Reinardi raised the monstrance and blessed the waters.\n\nAt that moment, the rain ceased immediately. The floodwaters, which had been continuing to rise, reached their peak and began to recede to their normal level. The village was spared entirely. The effect on the faith of the townspeople was immediate and profound. Many who had grown lukewarm or had drifted toward religious indifference returned to the practice of their faith. The vow made by Fr. Reinardi has been honored ever since: the people of Canosio continue to this day to celebrate an annual feast during the Octave of Corpus Christi in memory of the miracle.",
+    "images": [],
+    "scientificEvidence": [
+      "The immediate cessation of a torrential rainstorm and simultaneous reversal of floodwaters at the moment of the Eucharistic blessing was observed by the gathered faithful and recorded by Fr. Reinardi himself as instantaneous",
+      "The survival of the village from a flood that had already dislodged massive boulders from the mountainsides was considered inexplicable by those who witnessed the scale of the destruction that had been averted",
+      "Fr. Reinardi's written account describes the meteorological and hydrological events with enough specificity to constitute a first-hand witness record",
+      "The perpetual annual commemoration established immediately after the event and maintained continuously to the present day constitutes an unbroken chain of communal testimony to the authenticity of the experience"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "Father Antonio Reinardi",
+        "role": "Pastor of Canosio; celebrant who carried the Blessed Sacrament in procession to the flood",
+        "testimony": "Left a written account of the miracle, describing the catastrophic flooding of the Maira River, the vow he made publicly before the congregation, the procession to the floodwaters while reciting Psalm 51, and the instantaneous cessation of the rain and recession of the floodwaters the moment he blessed them with the monstrance."
+      },
+      {
+        "name": "Villagers of Canosio",
+        "role": "Inhabitants of the village who witnessed the flood and accompanied Fr. Reinardi in the Eucharistic procession",
+        "testimony": "The community witnessed the abrupt change in the weather and the recession of the floodwaters following the Eucharistic blessing. Their collective response — immediate renewal of religious practice and lifelong observance of the vow to celebrate Corpus Christi annually — constitutes their enduring testimony to the miraculous nature of the event."
+      }
+    ],
+    "historicalContext": "The year 1630 was one of the most catastrophic in the history of northern Italy. That same year saw one of the most devastating outbreaks of plague in Italian history, the plague of 1629–1631 immortalized by Alessandro Manzoni in The Betrothed, which killed hundreds of thousands across Lombardy and Piedmont. The Val Maira, like many isolated alpine valleys, had been exposed to Calvinist preaching coming across the border from the French Reformed territories, and religious practice had weakened in many mountain communities. Father Reinardi's miracle occurred at a moment when the Catholic Church was simultaneously battling epidemic disease, military conflict, and the spiritual erosion caused by Protestant theology. The miracle was understood as a dramatic divine confirmation of the Real Presence — the very doctrine that Calvinism most vigorously rejected.",
+    "timeline": [
+      {
+        "date": "Pre-1630",
+        "event": "Calvinist heresy spreads into the Val Maira; religious observance in Canosio grows cold"
+      },
+      {
+        "date": "June 1630",
+        "event": "Feast of Corpus Christi celebrated in Canosio"
+      },
+      {
+        "date": "Day after Corpus Christi, 1630",
+        "event": "Catastrophic torrential rain floods the Maira River; massive boulders are dislodged and threaten to destroy Canosio"
+      },
+      {
+        "date": "Day after Corpus Christi, 1630",
+        "event": "Fr. Reinardi rings the church bells, assembles the faithful, makes a public vow, and leads a Eucharistic procession to the floodwaters reciting Psalm 51"
+      },
+      {
+        "date": "Day after Corpus Christi, 1630",
+        "event": "Fr. Reinardi blesses the floodwaters with the monstrance; the rain stops immediately and the waters recede, sparing the village"
+      },
+      {
+        "date": "Post-1630",
+        "event": "Many lapsed villagers return to the faith; the annual Corpus Christi feast vow begins to be observed — a tradition maintained to the present day"
+      },
+      {
+        "date": "17th–18th century",
+        "event": "Original parish archive documents are burned during the wars between France and Spain; Fr. Reinardi's own written copy survives as the primary source"
+      }
+    ]
   },
   {
     "id": "miracle-46",
@@ -2681,8 +3500,63 @@
     "url": "https://www.miracolieucaristici.org/en/liste/scheda.html?nat=italia&wh=cascia",
     "lat": 42.7170082,
     "lng": 13.0135022,
-    "fullDescription": "",
-    "images": []
+    "fullDescription": "In the year 1330, in the city of Siena, there lived a priest who had allowed his faith to decay to the point of practical disbelief. He no longer held the Blessed Sacrament with the reverence the Church required, and his interior life had grown spiritually barren. One day this priest was called upon to fulfill his pastoral duty and bring Holy Communion to a gravely ill man who had requested the sacrament. The priest complied with the request but did so with complete disregard for proper liturgical procedure: rather than placing the consecrated Host in a pyx as prescribed and carrying it reverently next to his heart, he opened his breviary and placed the Host carelessly between two pages of the book, then set off for the sick man's house.\n\nWhen the priest arrived and opened the breviary to retrieve the Host, he was struck with horror. The Host had bled. Round stains of blood covered the two pages of the breviary between which it had rested. The blood was vivid and unmistakable. Confronted with this tangible evidence of the divine reality he had been treating with contempt, the priest was overcome with contrition and terror. Unable to face the moment alone, he closed the breviary and went directly to the Augustinian monastery of Siena, where he sought out Blessed Simon Fidati of Cascia, an Augustinian friar renowned throughout the region for his holiness, his powerful preaching, and his apostolic wisdom.\n\nBlessed Simon Fidati received the priest's full confession with compassion. He absolved the truly penitent man and then took custody of the two blood-stained pages from the breviary for safekeeping. Understanding the significance of the relic, he divided the pages: one he placed in a tabernacle at Perugia, and the other he brought to the Augustinian monastery in Cascia — the town in the mountains of Umbria from which he himself took his name — where it was enshrined in a reliquary. In 1389, Pope Boniface IX formally confirmed the authenticity of the miracle.\n\nThe relic was eventually transferred to the Basilica of Saint Rita of Cascia, where it remains preserved to this day in a stone and crystal tabernacle in the lower chapel. The fragment of parchment measures 52 by 44 millimeters. When light is directed through the page from behind, a distinct human face can be discerned in the pattern of the bloodstain when viewed from the front. Every year on the Feast of Corpus Christi the relic is carried in solemn procession through the streets of Cascia.",
+    "images": [],
+    "scientificEvidence": [
+      "The relic — a fragment of parchment measuring 52 x 44 mm — has been physically preserved and examined; the stains have been confirmed to be of blood origin",
+      "When light is directed through the back of the parchment page, a recognizable human face becomes visible in the pattern of the bloodstain when viewed from the front — a phenomenon with no conventional explanation",
+      "Pope Boniface IX formally confirmed the authenticity of the miracle in 1389, representing the highest available ecclesiastical and juridical verification of the 14th century",
+      "The long-term physical preservation of blood on parchment from 1330 with sufficient clarity to show a pattern has attracted scientific scrutiny; no natural process fully explains the continued visibility after nearly seven centuries",
+      "The division of the relic between Perugia and Cascia by Blessed Simon Fidati — a known historical figure documented independently through his Augustinian writings and preaching career — provides a verifiable chain of custody"
+    ],
+    "witnessTestimonies": [
+      {
+        "name": "The Priest of Siena",
+        "role": "Celebrant who placed the consecrated Host between the pages of his breviary",
+        "testimony": "Confessed to Blessed Simon Fidati that he had placed the consecrated Host between the pages of his breviary out of irreverence, and that upon opening the book at the sick man's house, he found the Host had bled onto both pages. He presented the breviary with the blood-stained pages as evidence of what had occurred."
+      },
+      {
+        "name": "Blessed Simon Fidati of Cascia",
+        "role": "Augustinian friar of the monastery of Siena; confessor to the priest; custodian of the relic; beatified by the Church",
+        "testimony": "Received the priest's full confession and accepted custody of the blood-stained pages. Divided the relic, placing one page in Perugia and bringing the other to the Augustinian monastery of Cascia. His role as the recipient of the confessed miracle and his care for the relic's preservation constitutes the primary chain of custody for the evidence."
+      },
+      {
+        "name": "Pope Boniface IX",
+        "role": "Pope from 1389 to 1404, who formally examined and confirmed the miracle",
+        "testimony": "Issued a formal papal confirmation of the authenticity of the Cascia Eucharistic miracle in 1389, representing the culmination of the Church's investigative process and providing official recognition of the event's supernatural character."
+      }
+    ],
+    "historicalContext": "The year 1330 fell within the Avignon Papacy (1309–1377), a period when the popes resided in Avignon, France, rather than Rome, and the authority and prestige of the Church in Italy was weakened. Siena was at this time one of the great commercial cities of medieval Tuscany, a republic known for its banking houses, its civic art, and its intense popular piety — but also for the corruption of clergy in an era when ecclesiastical discipline was difficult to enforce. Blessed Simon Fidati of Cascia (c. 1295–1348) was one of the great Augustinian reformers of the 14th century, whose apostolic preaching sought to restore Gospel simplicity and Eucharistic devotion in an era of clerical mediocrity. His writings, including the Opus Meritorum and De Gestis Domini Salvatoris, were widely circulated and his reputation for sanctity was established long before his death.",
+    "timeline": [
+      {
+        "date": "1330",
+        "event": "An unnamed priest of Siena places the consecrated Host between the pages of his breviary instead of in a pyx while bringing Viaticum to a sick man"
+      },
+      {
+        "date": "1330",
+        "event": "The priest opens the breviary at the sick man's house and finds the Host has bled onto both pages; he rushes to the Augustinian monastery of Siena"
+      },
+      {
+        "date": "1330",
+        "event": "The priest confesses to Blessed Simon Fidati, who grants absolution and takes custody of the two blood-stained pages"
+      },
+      {
+        "date": "1330",
+        "event": "Blessed Simon Fidati divides the relic: one page is placed in a tabernacle in Perugia; the other is enshrined in a reliquary at the Augustinian monastery of Cascia"
+      },
+      {
+        "date": "1389",
+        "event": "Pope Boniface IX formally confirms the authenticity of the Eucharistic miracle of Cascia"
+      },
+      {
+        "date": "Post-1457",
+        "event": "Following the canonization of Saint Rita of Cascia, the relic is transferred to and enshrined in the Basilica of Saint Rita"
+      },
+      {
+        "date": "Present (annually)",
+        "event": "The blood-stained parchment fragment (52 x 44 mm) is carried in solemn Corpus Christi procession through the streets of Cascia; preserved year-round in the lower chapel of the Basilica of Saint Rita in a stone and crystal tabernacle"
+      }
+    ]
   },
   {
     "id": "miracle-47",
